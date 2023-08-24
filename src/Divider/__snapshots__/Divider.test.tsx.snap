@@ -1,0 +1,3131 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`spec/Divider renders [EMPTY] 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align={null}
+    border={null}
+    colors="secondary"
+    direction={null}
+    events={null}
+    flex={null}
+    href={null}
+    isDisabled={null}
+    isHidden={null}
+    justify={null}
+    margin={null}
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={null}
+    padding={null}
+    shadow="none"
+    shape="none"
+    state={null}
+    style={
+      [
+        {
+          "height": 30,
+          "minWidth": 30,
+        },
+        null,
+      ]
+    }
+    testId={null}
+  />
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 01f57e0434 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="center"
+    border="none"
+    colors="accenttext"
+    direction="row-reverse"
+    events="none"
+    flex={0}
+    href={null}
+    isDisabled={null}
+    isHidden={null}
+    justify="space-evenly"
+    margin="-1 -2 -3 -4"
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={1}
+    padding="-1 -2 -3 -4"
+    shadow="sm"
+    shape="sm.all"
+    state={null}
+    style={
+      [
+        {
+          "height": 30,
+          "minWidth": 30,
+        },
+        null,
+      ]
+    }
+    testId="button-name"
+  >
+    custom node
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 01fc1514f8 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="flex-end"
+    border="md"
+    colors={
+      {
+        "bg": "transparent",
+        "bgActive": "transparent",
+        "bgHover": "transparent",
+        "border": "bg.success",
+        "borderActive": "bg.successminus",
+        "borderHover": "bg.successplus",
+        "text": "text.success",
+        "textActive": "text.successminus",
+        "textHover": "text.successplus",
+      }
+    }
+    direction="column-reverse"
+    events="auto"
+    flex={2}
+    href="https://google.com"
+    isDisabled={false}
+    isHidden={false}
+    justify={null}
+    margin={null}
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={0.5}
+    padding={null}
+    shadow="lg"
+    shape="lg"
+    state="hover"
+    style={
+      [
+        {
+          "height": 30,
+          "minWidth": 30,
+        },
+        {
+          "position": "absolute",
+        },
+      ]
+    }
+    testId=""
+  />
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 02e6a4355b 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="baseline"
+    border="md.bottom"
+    colors="accenttext"
+    direction="row-reverse"
+    events="none"
+    flex={0}
+    href="https://google.com"
+    isDisabled={false}
+    isHidden={false}
+    justify="center"
+    margin="5 15"
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={0}
+    padding="5 15"
+    shadow="sm"
+    shape="lg.bottom"
+    state="hover"
+    style={
+      [
+        {
+          "height": 45,
+          "minWidth": 45,
+        },
+        {
+          "position": "absolute",
+        },
+      ]
+    }
+    testId="button-name"
+  >
+    custom node
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 03b498a8d 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align={null}
+    border="sm.left"
+    colors={
+      {
+        "bg": "transparent",
+        "bgActive": "transparent",
+        "bgHover": "transparent",
+        "border": "bg.success",
+        "borderActive": "bg.successminus",
+        "borderHover": "bg.successplus",
+        "text": "text.success",
+        "textActive": "text.successminus",
+        "textHover": "text.successplus",
+      }
+    }
+    direction="column-reverse"
+    events="auto"
+    flex={2}
+    href={null}
+    isDisabled={null}
+    isHidden={null}
+    justify="center"
+    margin="5 15"
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={null}
+    padding="5 15"
+    shadow="lg"
+    shape="md.left"
+    state={null}
+    style={
+      [
+        {
+          "height": 35,
+          "minWidth": 35,
+        },
+        null,
+      ]
+    }
+    testId=""
+  />
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 04a9713156 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="center"
+    border="md.all"
+    colors="secondary"
+    direction={null}
+    events={null}
+    flex={null}
+    href={null}
+    isDisabled={null}
+    isHidden={null}
+    justify="flex-start"
+    margin={0}
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={1}
+    padding={0}
+    shadow="none"
+    shape="lg.all"
+    state={null}
+    style={
+      [
+        {
+          "height": 35,
+          "minWidth": 35,
+        },
+        null,
+      ]
+    }
+    testId={null}
+  >
+    custom node
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 027d16874b 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align={null}
+    border="xlg.left"
+    colors="secondary"
+    direction="row"
+    events="box-none"
+    flex={-1}
+    href={null}
+    isDisabled={null}
+    isHidden={null}
+    justify="space-evenly"
+    margin="-1 -2 -3 -4"
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={0.5}
+    padding="-1 -2 -3 -4"
+    shadow="none"
+    shape="rounded.left"
+    state={null}
+    style={
+      [
+        {
+          "height": 35,
+          "minWidth": 35,
+        },
+        null,
+      ]
+    }
+    testId="test-id"
+  />
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 033e249603 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="stretch"
+    border="sm.top"
+    colors="accenttext"
+    direction="row-reverse"
+    events="none"
+    flex={0}
+    href=""
+    isDisabled={true}
+    isHidden={true}
+    justify="flex-start"
+    margin={0}
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={0.5}
+    padding={0}
+    shadow="sm"
+    shape="md.top"
+    state="active"
+    style={
+      [
+        {
+          "height": 25,
+          "minWidth": 25,
+        },
+        {
+          "width": 100,
+        },
+      ]
+    }
+    testId="button-name"
+  />
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 045ddec5 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="flex-end"
+    border="lg"
+    colors={
+      {
+        "bg": "bg.primaryalt",
+        "bgActive": "bg.primaryaltminus",
+        "bgHover": "bg.primaryaltplus",
+        "border": "transparent",
+        "borderActive": "transparent",
+        "borderHover": "transparent",
+        "text": "text.primary",
+        "textActive": "text.primaryminus",
+        "textHover": "text.primaryplus",
+      }
+    }
+    direction="column"
+    events="box-only"
+    flex={1}
+    href="https://google.com"
+    isDisabled={false}
+    isHidden={false}
+    justify="flex-start"
+    margin={0}
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={null}
+    padding={0}
+    shadow="md"
+    shape="xlg"
+    state="hover"
+    style={
+      [
+        {
+          "height": 45,
+          "minWidth": 45,
+        },
+        {
+          "position": "absolute",
+        },
+      ]
+    }
+    testId="Label"
+  />
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 093ae6fd6 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="flex-start"
+    border="xlg.right"
+    colors="accenttext"
+    direction="row-reverse"
+    events="none"
+    flex={0}
+    href=""
+    isDisabled={true}
+    isHidden={true}
+    justify={null}
+    margin={null}
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={1}
+    padding={null}
+    shadow="sm"
+    shape="rounded.right"
+    state="active"
+    style={
+      [
+        {
+          "height": 40,
+          "minWidth": 40,
+        },
+        {
+          "width": 100,
+        },
+      ]
+    }
+    testId="button-name"
+  >
+    custom node
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 0701e35dea 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="baseline"
+    border="sm.bottom"
+    colors={
+      {
+        "bg": "bg.primaryalt",
+        "bgActive": "bg.primaryaltminus",
+        "bgHover": "bg.primaryaltplus",
+        "border": "transparent",
+        "borderActive": "transparent",
+        "borderHover": "transparent",
+        "text": "text.primary",
+        "textActive": "text.primaryminus",
+        "textHover": "text.primaryplus",
+      }
+    }
+    direction="column"
+    events="box-only"
+    flex={1}
+    href="https://google.com"
+    isDisabled={false}
+    isHidden={false}
+    justify="flex-end"
+    margin={10}
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={1}
+    padding={10}
+    shadow="md"
+    shape="md.bottom"
+    state="hover"
+    style={
+      [
+        {
+          "height": 30,
+          "minWidth": 30,
+        },
+        {
+          "position": "absolute",
+        },
+      ]
+    }
+    testId="Label"
+  >
+    custom node
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 02567c6a4 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="flex-end"
+    border={null}
+    colors="secondary"
+    direction="row"
+    events="box-none"
+    flex={-1}
+    href="https://google.com"
+    isDisabled={false}
+    isHidden={false}
+    justify="space-around"
+    margin="1 2 3 4"
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={0.5}
+    padding="1 2 3 4"
+    shadow="none"
+    shape="sm"
+    state="hover"
+    style={
+      [
+        {
+          "height": 45,
+          "minWidth": 45,
+        },
+        {
+          "position": "absolute",
+        },
+      ]
+    }
+    testId="test-id"
+  />
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 068893c77 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align={null}
+    border="lg.left"
+    colors="accenttext"
+    direction="row-reverse"
+    events="none"
+    flex={0}
+    href={null}
+    isDisabled={null}
+    isHidden={null}
+    justify="space-around"
+    margin="1 2 3 4"
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={null}
+    padding="1 2 3 4"
+    shadow="sm"
+    shape="xlg.left"
+    state={null}
+    style={
+      [
+        {
+          "height": 20,
+          "minWidth": 20,
+        },
+        null,
+      ]
+    }
+    testId="button-name"
+  />
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 0181006f2e 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align={null}
+    border="md.left"
+    colors={
+      {
+        "bg": "bg.primaryalt",
+        "bgActive": "bg.primaryaltminus",
+        "bgHover": "bg.primaryaltplus",
+        "border": "transparent",
+        "borderActive": "transparent",
+        "borderHover": "transparent",
+        "text": "text.primary",
+        "textActive": "text.primaryminus",
+        "textHover": "text.primaryplus",
+      }
+    }
+    direction="column"
+    events="box-only"
+    flex={1}
+    href={null}
+    isDisabled={null}
+    isHidden={null}
+    justify="space-between"
+    margin="5 15 3"
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={0.5}
+    padding="5 15 3"
+    shadow="md"
+    shape="lg.left"
+    state={null}
+    style={
+      [
+        {
+          "height": 30,
+          "minWidth": 30,
+        },
+        null,
+      ]
+    }
+    testId="Label"
+  />
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 0266704327 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="stretch"
+    border="xlg"
+    colors={
+      {
+        "bg": "bg.primaryalt",
+        "bgActive": "bg.primaryaltminus",
+        "bgHover": "bg.primaryaltplus",
+        "border": "transparent",
+        "borderActive": "transparent",
+        "borderHover": "transparent",
+        "text": "text.primary",
+        "textActive": "text.primaryminus",
+        "textHover": "text.primaryplus",
+      }
+    }
+    direction="column"
+    events="box-only"
+    flex={1}
+    href=""
+    isDisabled={true}
+    isHidden={true}
+    justify={null}
+    margin={null}
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={null}
+    padding={null}
+    shadow="md"
+    shape="sm.top"
+    state="active"
+    style={
+      [
+        {
+          "height": null,
+          "minWidth": null,
+        },
+        {
+          "width": 100,
+        },
+      ]
+    }
+    testId="Label"
+  />
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 0a760da80 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align={null}
+    border="xlg.top"
+    colors="secondary"
+    direction={null}
+    events={null}
+    flex={null}
+    href={null}
+    isDisabled={null}
+    isHidden={null}
+    justify="flex-end"
+    margin={10}
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={0.5}
+    padding={10}
+    shadow="none"
+    shape="sm.left"
+    state={null}
+    style={
+      [
+        {
+          "height": 20,
+          "minWidth": 20,
+        },
+        null,
+      ]
+    }
+    testId={null}
+  />
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 0e6e1bff1 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="stretch"
+    border="md.top"
+    colors="secondary"
+    direction="row"
+    events="box-none"
+    flex={-1}
+    href=""
+    isDisabled={true}
+    isHidden={true}
+    justify="flex-end"
+    margin={10}
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={null}
+    padding={10}
+    shadow="none"
+    shape="lg.top"
+    state="active"
+    style={
+      [
+        {
+          "height": 40,
+          "minWidth": 40,
+        },
+        {
+          "width": 100,
+        },
+      ]
+    }
+    testId="test-id"
+  />
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 0e96f34fea 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="flex-start"
+    border="xlg.bottom"
+    colors="secondary"
+    direction="row"
+    events="box-none"
+    flex={-1}
+    href=""
+    isDisabled={true}
+    isHidden={true}
+    justify="center"
+    margin="5 15"
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={1}
+    padding="5 15"
+    shadow="none"
+    shape="sm.right"
+    state="active"
+    style={
+      [
+        {
+          "height": 25,
+          "minWidth": 25,
+        },
+        {
+          "width": 100,
+        },
+      ]
+    }
+    testId="test-id"
+  >
+    custom node
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 0f0acde0f 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="baseline"
+    border="xlg.all"
+    colors={
+      {
+        "bg": "transparent",
+        "bgActive": "transparent",
+        "bgHover": "transparent",
+        "border": "bg.success",
+        "borderActive": "bg.successminus",
+        "borderHover": "bg.successplus",
+        "text": "text.success",
+        "textActive": "text.successminus",
+        "textHover": "text.successplus",
+      }
+    }
+    direction="column-reverse"
+    events="auto"
+    flex={2}
+    href="https://google.com"
+    isDisabled={false}
+    isHidden={false}
+    justify="flex-start"
+    margin={0}
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={0}
+    padding={0}
+    shadow="lg"
+    shape="sm.bottom"
+    state="hover"
+    style={
+      [
+        {
+          "height": 15,
+          "minWidth": 15,
+        },
+        {
+          "position": "absolute",
+        },
+      ]
+    }
+    testId=""
+  >
+    custom node
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 3cd25a9dc 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="baseline"
+    border="xlg.bottom"
+    colors="secondary"
+    direction={null}
+    events={null}
+    flex={null}
+    href="https://google.com"
+    isDisabled={false}
+    isHidden={false}
+    justify="space-around"
+    margin="1 2 3 4"
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={0}
+    padding="1 2 3 4"
+    shadow="none"
+    shape="rounded.bottom"
+    state="hover"
+    style={
+      [
+        {
+          "height": 30,
+          "minWidth": 30,
+        },
+        {
+          "position": "absolute",
+        },
+      ]
+    }
+    testId={null}
+  >
+    custom node
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 97b074fd1 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="flex-start"
+    border="lg.right"
+    colors={
+      {
+        "bg": "bg.primaryalt",
+        "bgActive": "bg.primaryaltminus",
+        "bgHover": "bg.primaryaltplus",
+        "border": "transparent",
+        "borderActive": "transparent",
+        "borderHover": "transparent",
+        "text": "text.primary",
+        "textActive": "text.primaryminus",
+        "textHover": "text.primaryplus",
+      }
+    }
+    direction="column"
+    events="box-only"
+    flex={1}
+    href=""
+    isDisabled={true}
+    isHidden={true}
+    justify="space-evenly"
+    margin="-1 -2 -3 -4"
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={0}
+    padding="-1 -2 -3 -4"
+    shadow="md"
+    shape="xlg.right"
+    state="active"
+    style={
+      [
+        {
+          "height": 25,
+          "minWidth": 25,
+        },
+        {
+          "width": 100,
+        },
+      ]
+    }
+    testId="Label"
+  >
+    custom node
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 116fc950d 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="center"
+    border="xlg.all"
+    colors={
+      {
+        "bg": "bg.primaryalt",
+        "bgActive": "bg.primaryaltminus",
+        "bgHover": "bg.primaryaltplus",
+        "border": "transparent",
+        "borderActive": "transparent",
+        "borderHover": "transparent",
+        "text": "text.primary",
+        "textActive": "text.primaryminus",
+        "textHover": "text.primaryplus",
+      }
+    }
+    direction="column"
+    events="box-only"
+    flex={1}
+    href={null}
+    isDisabled={null}
+    isHidden={null}
+    justify="center"
+    margin="5 15"
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={1}
+    padding="5 15"
+    shadow="md"
+    shape="rounded.all"
+    state={null}
+    style={
+      [
+        {
+          "height": 20,
+          "minWidth": 20,
+        },
+        null,
+      ]
+    }
+    testId="Label"
+  >
+    custom node
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 152cc0ffd 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="flex-start"
+    border="md.right"
+    colors={
+      {
+        "bg": "transparent",
+        "bgActive": "transparent",
+        "bgHover": "transparent",
+        "border": "bg.success",
+        "borderActive": "bg.successminus",
+        "borderHover": "bg.successplus",
+        "text": "text.success",
+        "textActive": "text.successminus",
+        "textHover": "text.successplus",
+      }
+    }
+    direction="column-reverse"
+    events="auto"
+    flex={2}
+    href=""
+    isDisabled={true}
+    isHidden={true}
+    justify="space-around"
+    margin="1 2 3 4"
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={1}
+    padding="1 2 3 4"
+    shadow="lg"
+    shape="lg.right"
+    state="active"
+    style={
+      [
+        {
+          "height": null,
+          "minWidth": null,
+        },
+        {
+          "width": 100,
+        },
+      ]
+    }
+    testId=""
+  >
+    custom node
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 330a68426 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="flex-end"
+    border="sm"
+    colors="secondary"
+    direction={null}
+    events={null}
+    flex={null}
+    href="https://google.com"
+    isDisabled={false}
+    isHidden={false}
+    justify="space-evenly"
+    margin="-1 -2 -3 -4"
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={null}
+    padding="-1 -2 -3 -4"
+    shadow="none"
+    shape="md"
+    state="hover"
+    style={
+      [
+        {
+          "height": 15,
+          "minWidth": 15,
+        },
+        {
+          "position": "absolute",
+        },
+      ]
+    }
+    testId={null}
+  />
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 967bd12b6 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="center"
+    border="lg.all"
+    colors={
+      {
+        "bg": "transparent",
+        "bgActive": "transparent",
+        "bgHover": "transparent",
+        "border": "bg.success",
+        "borderActive": "bg.successminus",
+        "borderHover": "bg.successplus",
+        "text": "text.success",
+        "textActive": "text.successminus",
+        "textHover": "text.successplus",
+      }
+    }
+    direction="column-reverse"
+    events="auto"
+    flex={2}
+    href={null}
+    isDisabled={null}
+    isHidden={null}
+    justify="flex-end"
+    margin={10}
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={0}
+    padding={10}
+    shadow="lg"
+    shape="xlg.all"
+    state={null}
+    style={
+      [
+        {
+          "height": 30,
+          "minWidth": 30,
+        },
+        null,
+      ]
+    }
+    testId=""
+  >
+    custom node
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 1477f7c0 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="stretch"
+    border="lg.top"
+    colors="secondary"
+    direction={null}
+    events={null}
+    flex={null}
+    href=""
+    isDisabled={true}
+    isHidden={true}
+    justify="center"
+    margin="5 15"
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={0.5}
+    padding="5 15"
+    shadow="none"
+    shape="xlg.top"
+    state="active"
+    style={
+      [
+        {
+          "height": null,
+          "minWidth": null,
+        },
+        {
+          "width": 100,
+        },
+      ]
+    }
+    testId={null}
+  />
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 2196bf1a7 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="flex-start"
+    border="none"
+    colors="secondary"
+    direction="row"
+    events="box-none"
+    flex={-1}
+    href=""
+    isDisabled={true}
+    isHidden={true}
+    justify="flex-start"
+    margin={0}
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={0}
+    padding={0}
+    shadow="none"
+    shape="none"
+    state="active"
+    style={
+      [
+        {
+          "height": null,
+          "minWidth": null,
+        },
+        {
+          "width": 100,
+        },
+      ]
+    }
+    testId="test-id"
+  >
+    custom node
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 151529e1b 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="center"
+    border="sm.all"
+    colors="secondary"
+    direction="row"
+    events="box-none"
+    flex={-1}
+    href={null}
+    isDisabled={null}
+    isHidden={null}
+    justify={null}
+    margin={null}
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={0}
+    padding={null}
+    shadow="none"
+    shape="md.all"
+    state={null}
+    style={
+      [
+        {
+          "height": 20,
+          "minWidth": 20,
+        },
+        null,
+      ]
+    }
+    testId="test-id"
+  >
+    custom node
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders 964088fd1 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="flex-start"
+    border="sm.right"
+    colors="secondary"
+    direction={null}
+    events={null}
+    flex={null}
+    href=""
+    isDisabled={true}
+    isHidden={true}
+    justify="space-between"
+    margin="5 15 3"
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={0}
+    padding="5 15 3"
+    shadow="none"
+    shape="md.right"
+    state="active"
+    style={
+      [
+        {
+          "height": 40,
+          "minWidth": 40,
+        },
+        {
+          "width": 100,
+        },
+      ]
+    }
+    testId={null}
+  >
+    custom node
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders a2a23e7d1 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="baseline"
+    border="lg.bottom"
+    colors="secondary"
+    direction="row"
+    events="box-none"
+    flex={-1}
+    href="https://google.com"
+    isDisabled={false}
+    isHidden={false}
+    justify="space-between"
+    margin="5 15 3"
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={1}
+    padding="5 15 3"
+    shadow="none"
+    shape="xlg.bottom"
+    state="hover"
+    style={
+      [
+        {
+          "height": 15,
+          "minWidth": 15,
+        },
+        {
+          "position": "absolute",
+        },
+      ]
+    }
+    testId="test-id"
+  >
+    custom node
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders b2ad0e5d7 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="flex-end"
+    border="xlg"
+    colors="accenttext"
+    direction="row-reverse"
+    events="none"
+    flex={0}
+    href="https://google.com"
+    isDisabled={false}
+    isHidden={false}
+    justify="flex-end"
+    margin={10}
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={0.5}
+    padding={10}
+    shadow="sm"
+    shape="rounded"
+    state="hover"
+    style={
+      [
+        {
+          "height": 15,
+          "minWidth": 15,
+        },
+        {
+          "position": "absolute",
+        },
+      ]
+    }
+    testId="button-name"
+  />
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Divider renders b6f33d1cd 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="stretch"
+    border="xlg.top"
+    colors={
+      {
+        "bg": "transparent",
+        "bgActive": "transparent",
+        "bgHover": "transparent",
+        "border": "bg.success",
+        "borderActive": "bg.successminus",
+        "borderHover": "bg.successplus",
+        "text": "text.success",
+        "textActive": "text.successminus",
+        "textHover": "text.successplus",
+      }
+    }
+    direction="column-reverse"
+    events="auto"
+    flex={2}
+    href=""
+    isDisabled={true}
+    isHidden={true}
+    justify="space-between"
+    margin="5 15 3"
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={null}
+    padding="5 15 3"
+    shadow="lg"
+    shape="rounded.top"
+    state="active"
+    style={
+      [
+        {
+          "height": 25,
+          "minWidth": 25,
+        },
+        {
+          "width": 100,
+        },
+      ]
+    }
+    testId=""
+  />
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;

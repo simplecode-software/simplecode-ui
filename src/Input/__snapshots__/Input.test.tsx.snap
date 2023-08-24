@@ -1,0 +1,1889 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`spec/Input renders [EMPTY] 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 02df4b4b85 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 03f68f5d5a 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 05ba45c587 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 05d680b291 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 06f940b014 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 07c6d20965 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 08cfbf8a22 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 013c4a723da 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 050df530df 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 075bbe81cf 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 0458bf1380 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 0872bd1793 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 016410da1bf 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 0a00e7f70 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 0a0a10d56f 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 0b2f20bbb0 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 0e2b538012 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 0fae36c43d 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 2eb88069a 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 12b5bc0f11 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 17bb0cf0b 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 28eb3b872 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 30a7d2440 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 66e8b53ac 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 83ed6ecbe 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 91aefc0b2 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 447db8734 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 665e86a63 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 24517f6b3 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders 81384c77c 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/Input renders c08f3e0d4 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;

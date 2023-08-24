@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Get Css Sides computes double sides 1`] = `
+{
+  "bBottom": 10,
+  "bLeft": 20,
+  "bRight": 20,
+  "bTop": 10,
+}
+`;
+
+exports[`Get Css Sides computes full sides 1`] = `
+{
+  "dBottom": 30,
+  "dLeft": 40,
+  "dRight": 20,
+  "dTop": 10,
+}
+`;
+
+exports[`Get Css Sides computes number padding 1`] = `
+{
+  "f": 40,
+}
+`;
+
+exports[`Get Css Sides computes single side 1`] = `
+{
+  "aBottom": 10,
+  "aLeft": 10,
+  "aRight": 10,
+  "aTop": 10,
+}
+`;
+
+exports[`Get Css Sides computes tripple sides 1`] = `
+{
+  "cBottom": 30,
+  "cLeft": 20,
+  "cRight": 20,
+  "cTop": 10,
+}
+`;
+
+exports[`Get Css Sides returns null if empty string 1`] = `null`;
+
+exports[`Get Css Sides returns null if no padding 1`] = `null`;
+
+exports[`Get Css Sides returns null if the name is empty 1`] = `null`;
+
+exports[`Get Css Sides trims extra sides 1`] = `
+{
+  "eBottom": 30,
+  "eLeft": 40,
+  "eRight": 20,
+  "eTop": 10,
+}
+`;

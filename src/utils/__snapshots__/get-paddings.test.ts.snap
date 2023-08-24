@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Get Paddings computes double paddings 1`] = `
+{
+  "paddingBottom": 10,
+  "paddingLeft": 20,
+  "paddingRight": 20,
+  "paddingTop": 10,
+}
+`;
+
+exports[`Get Paddings computes full paddings 1`] = `
+{
+  "paddingBottom": 30,
+  "paddingLeft": 40,
+  "paddingRight": 20,
+  "paddingTop": 10,
+}
+`;
+
+exports[`Get Paddings computes number padding 1`] = `
+{
+  "padding": 40,
+}
+`;
+
+exports[`Get Paddings computes single paddings 1`] = `
+{
+  "paddingBottom": 10,
+  "paddingLeft": 10,
+  "paddingRight": 10,
+  "paddingTop": 10,
+}
+`;
+
+exports[`Get Paddings computes tripple paddings 1`] = `
+{
+  "paddingBottom": 30,
+  "paddingLeft": 20,
+  "paddingRight": 20,
+  "paddingTop": 10,
+}
+`;
+
+exports[`Get Paddings returns null if empty string 1`] = `null`;
+
+exports[`Get Paddings returns null if no padding 1`] = `null`;
+
+exports[`Get Paddings trims extra paddings 1`] = `
+{
+  "paddingBottom": 30,
+  "paddingLeft": 40,
+  "paddingRight": 20,
+  "paddingTop": 10,
+}
+`;

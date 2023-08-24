@@ -1,0 +1,33 @@
+{
+    "preset": "ts-jest",
+    "transform": {
+        "^.+\\.tsx?$": [
+            "ts-jest",
+            {
+                "isolatedModules": true
+            }
+        ]
+    },
+    "moduleFileExtensions": [
+        "ts",
+        "tsx",
+        "js"
+    ],
+    "rootDir": "../",
+    "testMatch": [
+        "<rootDir>/src/**/*.test.{ts,tsx}"
+    ],
+    "coverageDirectory": "doc/jest",
+    "coverageReporters": [
+        "lcov"
+    ],
+    "watchPathIgnorePatterns": [
+        "<rootDir>/node_modules"
+    ],
+    "setupFilesAfterEnv": ["<rootDir>/conf/jest.setup.ts"],
+    "collectCoverageFrom": [
+        "src/**/*.{ts,tsx}",
+        "!src/**/*.test.{ts,tsx}",
+        "!src/**/index.ts"
+    ]
+}

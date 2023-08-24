@@ -1,0 +1,6653 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`spec/Loading renders [EMPTY] 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align={null}
+    alignText={null}
+    border="none"
+    colors="secondarytext"
+    colorsActive={null}
+    direction="column"
+    events={null}
+    flex={null}
+    flexText={null}
+    font="regular"
+    fontActive={null}
+    href={null}
+    icons={
+      [
+        {
+          "Component": {
+            "$$typeof": Symbol(react.forward_ref),
+            "render": [Function],
+          },
+          "size": "md",
+          "sizeIcon": 36,
+        },
+      ]
+    }
+    iconsActive={null}
+    isActive={null}
+    isDisabled={null}
+    isHidden={null}
+    justify={null}
+    label={null}
+    labelActive={null}
+    lines={null}
+    margin={null}
+    name={null}
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={null}
+    padding={null}
+    select={null}
+    shadow="none"
+    shadowText="none"
+    shape="none"
+    size="auto"
+    sizeText="sm"
+    state={null}
+    style={null}
+    testId={null}
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 02c8dd9025 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align="center"
+    alignText="right"
+    border="xlg.all"
+    colors={
+      {
+        "bg": "bg.primaryalt",
+        "bgActive": "bg.primaryaltminus",
+        "bgHover": "bg.primaryaltplus",
+        "border": "transparent",
+        "borderActive": "transparent",
+        "borderHover": "transparent",
+        "text": "text.primary",
+        "textActive": "text.primaryminus",
+        "textHover": "text.primaryplus",
+      }
+    }
+    colorsActive={
+      {
+        "bg": "bg.primaryalt",
+        "bgActive": "bg.primaryaltminus",
+        "bgHover": "bg.primaryaltplus",
+        "border": "transparent",
+        "borderActive": "transparent",
+        "borderHover": "transparent",
+        "text": "text.primary",
+        "textActive": "text.primaryminus",
+        "textHover": "text.primaryplus",
+      }
+    }
+    direction="column"
+    events="box-only"
+    flex={1}
+    flexText={1}
+    font="bold"
+    fontActive="bold"
+    href={null}
+    icons={
+      [
+        null,
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    iconsActive={
+      [
+        null,
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    isActive={null}
+    isDisabled={null}
+    isHidden={null}
+    justify="center"
+    label="Label"
+    labelActive="Label"
+    lines={1}
+    margin="5 15"
+    name="Label"
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={1}
+    padding="5 15"
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+          {
+            "label": "Button 2",
+            "name": "btn-2",
+          },
+        ],
+      }
+    }
+    shadow="md"
+    shadowText="md"
+    shape="rounded.all"
+    size="auto"
+    sizeText="xsm"
+    state={null}
+    style={null}
+    testId="Label"
+  >
+    custom node
+  </test-mock>
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 02e124cde3 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align="stretch"
+    alignText="center"
+    border="xlg"
+    colors={
+      {
+        "bg": "bg.primaryalt",
+        "bgActive": "bg.primaryaltminus",
+        "bgHover": "bg.primaryaltplus",
+        "border": "transparent",
+        "borderActive": "transparent",
+        "borderHover": "transparent",
+        "text": "text.primary",
+        "textActive": "text.primaryminus",
+        "textHover": "text.primaryplus",
+      }
+    }
+    colorsActive={
+      {
+        "bg": "bg.primaryalt",
+        "bgActive": "bg.primaryaltminus",
+        "bgHover": "bg.primaryaltplus",
+        "border": "transparent",
+        "borderActive": "transparent",
+        "borderHover": "transparent",
+        "text": "text.primary",
+        "textActive": "text.primaryminus",
+        "textHover": "text.primaryplus",
+      }
+    }
+    direction="column"
+    events="box-only"
+    flex={1}
+    flexText={1}
+    font="bold"
+    fontActive="bold"
+    href=""
+    icons={
+      [
+        {
+          "Component": {
+            "$$typeof": Symbol(react.forward_ref),
+            "render": [Function],
+          },
+          "size": "md",
+          "sizeIcon": 36,
+        },
+      ]
+    }
+    iconsActive={null}
+    isActive={true}
+    isDisabled={true}
+    isHidden={true}
+    justify={null}
+    label="Label"
+    labelActive="Label"
+    lines={1}
+    margin={null}
+    name="Label"
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={null}
+    padding={null}
+    select={null}
+    shadow="md"
+    shadowText="none"
+    shape="sm.top"
+    size="auto"
+    sizeText="auto"
+    state="active"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId="Label"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 03f60c9fa1 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align="stretch"
+    alignText="center"
+    border="lg.top"
+    colors="secondarytext"
+    colorsActive={null}
+    direction="column"
+    events={null}
+    flex={null}
+    flexText={null}
+    font="regular"
+    fontActive={null}
+    href=""
+    icons={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    iconsActive={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    isActive={true}
+    isDisabled={true}
+    isHidden={true}
+    justify="center"
+    label={null}
+    labelActive={null}
+    lines={null}
+    margin="5 15"
+    name={null}
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={0.5}
+    padding="5 15"
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+        ],
+      }
+    }
+    shadow="none"
+    shadowText="sm"
+    shape="xlg.top"
+    size="auto"
+    sizeText="auto"
+    state="active"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId={null}
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 04b53f1311 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align="center"
+    alignText="right"
+    border="sm.all"
+    colors="secondary"
+    colorsActive="secondary"
+    direction="row"
+    events="box-none"
+    flex={-1}
+    flexText={-1}
+    font="regular"
+    fontActive="regular"
+    href={null}
+    icons={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+      ]
+    }
+    iconsActive={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+      ]
+    }
+    isActive={null}
+    isDisabled={null}
+    isHidden={null}
+    justify={null}
+    label="test-id"
+    labelActive="test-id"
+    lines={-1}
+    margin={null}
+    name="test-id"
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={0}
+    padding={null}
+    select={
+      {
+        "buttons": [],
+      }
+    }
+    shadow="none"
+    shadowText="none"
+    shape="md.all"
+    size="xsm"
+    sizeText="xsm"
+    state={null}
+    style={null}
+    testId="test-id"
+  >
+    custom node
+  </test-mock>
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 06cc899ef5 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align="flex-end"
+    alignText="left"
+    border="xlg"
+    colors="accenttext"
+    colorsActive="accenttext"
+    direction="row-reverse"
+    events="none"
+    flex={0}
+    flexText={0}
+    font="semi"
+    fontActive="semi"
+    href="https://google.com"
+    icons={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    iconsActive={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    isActive={false}
+    isDisabled={false}
+    isHidden={false}
+    justify="flex-end"
+    label="button-name"
+    labelActive="button-name"
+    lines={0}
+    margin={10}
+    name="button-name"
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={0.5}
+    padding={10}
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+        ],
+      }
+    }
+    shadow="sm"
+    shadowText="sm"
+    shape="rounded"
+    size="xxsm"
+    sizeText="xxsm"
+    state="hover"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId="button-name"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 06ea8a3318 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align="stretch"
+    alignText="center"
+    border="sm.top"
+    colors="accenttext"
+    colorsActive="accenttext"
+    direction="row-reverse"
+    events="none"
+    flex={0}
+    flexText={0}
+    font="semi"
+    fontActive="semi"
+    href=""
+    icons={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    iconsActive={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    isActive={true}
+    isDisabled={true}
+    isHidden={true}
+    justify="flex-start"
+    label="button-name"
+    labelActive="button-name"
+    lines={0}
+    margin={0}
+    name="button-name"
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={0.5}
+    padding={0}
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+        ],
+      }
+    }
+    shadow="sm"
+    shadowText="sm"
+    shape="md.top"
+    size="sm"
+    sizeText="sm"
+    state="active"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId="button-name"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 016a0fda54 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align="flex-end"
+    alignText="left"
+    border="lg"
+    colors={
+      {
+        "bg": "bg.primaryalt",
+        "bgActive": "bg.primaryaltminus",
+        "bgHover": "bg.primaryaltplus",
+        "border": "transparent",
+        "borderActive": "transparent",
+        "borderHover": "transparent",
+        "text": "text.primary",
+        "textActive": "text.primaryminus",
+        "textHover": "text.primaryplus",
+      }
+    }
+    colorsActive={
+      {
+        "bg": "bg.primaryalt",
+        "bgActive": "bg.primaryaltminus",
+        "bgHover": "bg.primaryaltplus",
+        "border": "transparent",
+        "borderActive": "transparent",
+        "borderHover": "transparent",
+        "text": "text.primary",
+        "textActive": "text.primaryminus",
+        "textHover": "text.primaryplus",
+      }
+    }
+    direction="column"
+    events="box-only"
+    flex={1}
+    flexText={1}
+    font="bold"
+    fontActive="bold"
+    href="https://google.com"
+    icons={
+      [
+        {
+          "Component": {
+            "$$typeof": Symbol(react.forward_ref),
+            "render": [Function],
+          },
+          "size": "md",
+          "sizeIcon": 36,
+        },
+      ]
+    }
+    iconsActive={null}
+    isActive={false}
+    isDisabled={false}
+    isHidden={false}
+    justify="flex-start"
+    label="Label"
+    labelActive="Label"
+    lines={1}
+    margin={0}
+    name="Label"
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={null}
+    padding={0}
+    select={null}
+    shadow="md"
+    shadowText="none"
+    shape="xlg"
+    size="auto"
+    sizeText="xxlg"
+    state="hover"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId="Label"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 050b0ac00d 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align="center"
+    alignText="right"
+    border="lg.all"
+    colors={
+      {
+        "bg": "transparent",
+        "bgActive": "transparent",
+        "bgHover": "transparent",
+        "border": "bg.success",
+        "borderActive": "bg.successminus",
+        "borderHover": "bg.successplus",
+        "text": "text.success",
+        "textActive": "text.successminus",
+        "textHover": "text.successplus",
+      }
+    }
+    colorsActive={
+      {
+        "bg": "transparent",
+        "bgActive": "transparent",
+        "bgHover": "transparent",
+        "border": "bg.success",
+        "borderActive": "bg.successminus",
+        "borderHover": "bg.successplus",
+        "text": "text.success",
+        "textActive": "text.successminus",
+        "textHover": "text.successplus",
+      }
+    }
+    direction="column-reverse"
+    events="auto"
+    flex={2}
+    flexText={2}
+    font="mono"
+    fontActive="mono"
+    href={null}
+    icons={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+      ]
+    }
+    iconsActive={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+      ]
+    }
+    isActive={null}
+    isDisabled={null}
+    isHidden={null}
+    justify="flex-end"
+    label=""
+    labelActive=""
+    lines={2}
+    margin={10}
+    name=""
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={0}
+    padding={10}
+    select={
+      {
+        "buttons": [],
+      }
+    }
+    shadow="lg"
+    shadowText="none"
+    shape="xlg.all"
+    size="md"
+    sizeText="sm"
+    state={null}
+    style={null}
+    testId=""
+  >
+    custom node
+  </test-mock>
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 068fc770ee 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align="flex-start"
+    alignText="auto"
+    border="lg.right"
+    colors={
+      {
+        "bg": "bg.primaryalt",
+        "bgActive": "bg.primaryaltminus",
+        "bgHover": "bg.primaryaltplus",
+        "border": "transparent",
+        "borderActive": "transparent",
+        "borderHover": "transparent",
+        "text": "text.primary",
+        "textActive": "text.primaryminus",
+        "textHover": "text.primaryplus",
+      }
+    }
+    colorsActive={
+      {
+        "bg": "bg.primaryalt",
+        "bgActive": "bg.primaryaltminus",
+        "bgHover": "bg.primaryaltplus",
+        "border": "transparent",
+        "borderActive": "transparent",
+        "borderHover": "transparent",
+        "text": "text.primary",
+        "textActive": "text.primaryminus",
+        "textHover": "text.primaryplus",
+      }
+    }
+    direction="column"
+    events="box-only"
+    flex={1}
+    flexText={1}
+    font="bold"
+    fontActive="bold"
+    href=""
+    icons={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+      ]
+    }
+    iconsActive={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+      ]
+    }
+    isActive={true}
+    isDisabled={true}
+    isHidden={true}
+    justify="space-evenly"
+    label="Label"
+    labelActive="Label"
+    lines={1}
+    margin="-1 -2 -3 -4"
+    name="Label"
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={0}
+    padding="-1 -2 -3 -4"
+    select={
+      {
+        "buttons": [],
+      }
+    }
+    shadow="md"
+    shadowText="none"
+    shape="xlg.right"
+    size="auto"
+    sizeText="sm"
+    state="active"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId="Label"
+  >
+    custom node
+  </test-mock>
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 0533fe99ee 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align="flex-end"
+    alignText="left"
+    border="none"
+    colors="secondary"
+    colorsActive="secondary"
+    direction="row"
+    events="box-none"
+    flex={-1}
+    flexText={-1}
+    font="regular"
+    fontActive="regular"
+    href="https://google.com"
+    icons={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    iconsActive={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    isActive={false}
+    isDisabled={false}
+    isHidden={false}
+    justify="space-around"
+    label="test-id"
+    labelActive="test-id"
+    lines={-1}
+    margin="1 2 3 4"
+    name="test-id"
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={0.5}
+    padding="1 2 3 4"
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+        ],
+      }
+    }
+    shadow="none"
+    shadowText="sm"
+    shape="sm"
+    size="xxlg"
+    sizeText="xxlg"
+    state="hover"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId="test-id"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 0549dbd056 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align="baseline"
+    alignText="justify"
+    border="lg.bottom"
+    colors="secondary"
+    colorsActive="secondary"
+    direction="row"
+    events="box-none"
+    flex={-1}
+    flexText={-1}
+    font="regular"
+    fontActive="regular"
+    href="https://google.com"
+    icons={
+      [
+        null,
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    iconsActive={
+      [
+        null,
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    isActive={false}
+    isDisabled={false}
+    isHidden={false}
+    justify="space-between"
+    label="test-id"
+    labelActive="test-id"
+    lines={-1}
+    margin="5 15 3"
+    name="test-id"
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={1}
+    padding="5 15 3"
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+          {
+            "label": "Button 2",
+            "name": "btn-2",
+          },
+        ],
+      }
+    }
+    shadow="none"
+    shadowText="md"
+    shape="xlg.bottom"
+    size="xxsm"
+    sizeText="xxsm"
+    state="hover"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId="test-id"
+  >
+    custom node
+  </test-mock>
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 070280a435 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align={null}
+    alignText={null}
+    border="xlg.top"
+    colors="secondarytext"
+    colorsActive={null}
+    direction="column"
+    events={null}
+    flex={null}
+    flexText={null}
+    font="regular"
+    fontActive={null}
+    href={null}
+    icons={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    iconsActive={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    isActive={null}
+    isDisabled={null}
+    isHidden={null}
+    justify="flex-end"
+    label={null}
+    labelActive={null}
+    lines={null}
+    margin={10}
+    name={null}
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={0.5}
+    padding={10}
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+        ],
+      }
+    }
+    shadow="none"
+    shadowText="sm"
+    shape="sm.left"
+    size="auto"
+    sizeText="xsm"
+    state={null}
+    style={null}
+    testId={null}
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 091427eb89 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align={null}
+    alignText={null}
+    border="sm.left"
+    colors={
+      {
+        "bg": "transparent",
+        "bgActive": "transparent",
+        "bgHover": "transparent",
+        "border": "bg.success",
+        "borderActive": "bg.successminus",
+        "borderHover": "bg.successplus",
+        "text": "text.success",
+        "textActive": "text.successminus",
+        "textHover": "text.successplus",
+      }
+    }
+    colorsActive={
+      {
+        "bg": "transparent",
+        "bgActive": "transparent",
+        "bgHover": "transparent",
+        "border": "bg.success",
+        "borderActive": "bg.successminus",
+        "borderHover": "bg.successplus",
+        "text": "text.success",
+        "textActive": "text.successminus",
+        "textHover": "text.successplus",
+      }
+    }
+    direction="column-reverse"
+    events="auto"
+    flex={2}
+    flexText={2}
+    font="mono"
+    fontActive="mono"
+    href={null}
+    icons={
+      [
+        {
+          "Component": {
+            "$$typeof": Symbol(react.forward_ref),
+            "render": [Function],
+          },
+          "size": "md",
+          "sizeIcon": 36,
+        },
+      ]
+    }
+    iconsActive={null}
+    isActive={null}
+    isDisabled={null}
+    isHidden={null}
+    justify="center"
+    label=""
+    labelActive=""
+    lines={2}
+    margin="5 15"
+    name=""
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={null}
+    padding="5 15"
+    select={null}
+    shadow="lg"
+    shadowText="none"
+    shape="md.left"
+    size="lg"
+    sizeText="lg"
+    state={null}
+    style={null}
+    testId=""
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 099236ae1b 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align="flex-start"
+    alignText="auto"
+    border="xlg.right"
+    colors="accenttext"
+    colorsActive="accenttext"
+    direction="row-reverse"
+    events="none"
+    flex={0}
+    flexText={0}
+    font="semi"
+    fontActive="semi"
+    href=""
+    icons={
+      [
+        null,
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    iconsActive={
+      [
+        null,
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    isActive={true}
+    isDisabled={true}
+    isHidden={true}
+    justify={null}
+    label="button-name"
+    labelActive="button-name"
+    lines={0}
+    margin={null}
+    name="button-name"
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={1}
+    padding={null}
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+          {
+            "label": "Button 2",
+            "name": "btn-2",
+          },
+        ],
+      }
+    }
+    shadow="sm"
+    shadowText="md"
+    shape="rounded.right"
+    size="xlg"
+    sizeText="xlg"
+    state="active"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId="button-name"
+  >
+    custom node
+  </test-mock>
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 0110387a7f 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align={null}
+    alignText={null}
+    border="lg.left"
+    colors="accenttext"
+    colorsActive="accenttext"
+    direction="row-reverse"
+    events="none"
+    flex={0}
+    flexText={0}
+    font="semi"
+    fontActive="semi"
+    href={null}
+    icons={
+      [
+        {
+          "Component": {
+            "$$typeof": Symbol(react.forward_ref),
+            "render": [Function],
+          },
+          "size": "sm",
+          "sizeIcon": 18,
+        },
+      ]
+    }
+    iconsActive={null}
+    isActive={null}
+    isDisabled={null}
+    isHidden={null}
+    justify="space-around"
+    label="button-name"
+    labelActive="button-name"
+    lines={0}
+    margin="1 2 3 4"
+    name="button-name"
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={null}
+    padding="1 2 3 4"
+    select={null}
+    shadow="sm"
+    shadowText="none"
+    shape="xlg.left"
+    size="xsm"
+    sizeText="xsm"
+    state={null}
+    style={null}
+    testId="button-name"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 0184017a69 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align="baseline"
+    alignText="justify"
+    border="sm.bottom"
+    colors={
+      {
+        "bg": "bg.primaryalt",
+        "bgActive": "bg.primaryaltminus",
+        "bgHover": "bg.primaryaltplus",
+        "border": "transparent",
+        "borderActive": "transparent",
+        "borderHover": "transparent",
+        "text": "text.primary",
+        "textActive": "text.primaryminus",
+        "textHover": "text.primaryplus",
+      }
+    }
+    colorsActive={
+      {
+        "bg": "bg.primaryalt",
+        "bgActive": "bg.primaryaltminus",
+        "bgHover": "bg.primaryaltplus",
+        "border": "transparent",
+        "borderActive": "transparent",
+        "borderHover": "transparent",
+        "text": "text.primary",
+        "textActive": "text.primaryminus",
+        "textHover": "text.primaryplus",
+      }
+    }
+    direction="column"
+    events="box-only"
+    flex={1}
+    flexText={1}
+    font="bold"
+    fontActive="bold"
+    href="https://google.com"
+    icons={
+      [
+        null,
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    iconsActive={
+      [
+        null,
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    isActive={false}
+    isDisabled={false}
+    isHidden={false}
+    justify="flex-end"
+    label="Label"
+    labelActive="Label"
+    lines={1}
+    margin={10}
+    name="Label"
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={1}
+    padding={10}
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+          {
+            "label": "Button 2",
+            "name": "btn-2",
+          },
+        ],
+      }
+    }
+    shadow="md"
+    shadowText="md"
+    shape="md.bottom"
+    size="auto"
+    sizeText="md"
+    state="hover"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId="Label"
+  >
+    custom node
+  </test-mock>
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 0466168796 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align="flex-end"
+    alignText="left"
+    border="md"
+    colors={
+      {
+        "bg": "transparent",
+        "bgActive": "transparent",
+        "bgHover": "transparent",
+        "border": "bg.success",
+        "borderActive": "bg.successminus",
+        "borderHover": "bg.successplus",
+        "text": "text.success",
+        "textActive": "text.successminus",
+        "textHover": "text.successplus",
+      }
+    }
+    colorsActive={
+      {
+        "bg": "transparent",
+        "bgActive": "transparent",
+        "bgHover": "transparent",
+        "border": "bg.success",
+        "borderActive": "bg.successminus",
+        "borderHover": "bg.successplus",
+        "text": "text.success",
+        "textActive": "text.successminus",
+        "textHover": "text.successplus",
+      }
+    }
+    direction="column-reverse"
+    events="auto"
+    flex={2}
+    flexText={2}
+    font="mono"
+    fontActive="mono"
+    href="https://google.com"
+    icons={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    iconsActive={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    isActive={false}
+    isDisabled={false}
+    isHidden={false}
+    justify={null}
+    label=""
+    labelActive=""
+    lines={2}
+    margin={null}
+    name=""
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={0.5}
+    padding={null}
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+        ],
+      }
+    }
+    shadow="lg"
+    shadowText="sm"
+    shape="lg"
+    size="md"
+    sizeText="md"
+    state="hover"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId=""
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 0dde976045 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align="stretch"
+    alignText="center"
+    border="xlg.top"
+    colors={
+      {
+        "bg": "transparent",
+        "bgActive": "transparent",
+        "bgHover": "transparent",
+        "border": "bg.success",
+        "borderActive": "bg.successminus",
+        "borderHover": "bg.successplus",
+        "text": "text.success",
+        "textActive": "text.successminus",
+        "textHover": "text.successplus",
+      }
+    }
+    colorsActive={
+      {
+        "bg": "transparent",
+        "bgActive": "transparent",
+        "bgHover": "transparent",
+        "border": "bg.success",
+        "borderActive": "bg.successminus",
+        "borderHover": "bg.successplus",
+        "text": "text.success",
+        "textActive": "text.successminus",
+        "textHover": "text.successplus",
+      }
+    }
+    direction="column-reverse"
+    events="auto"
+    flex={2}
+    flexText={2}
+    font="mono"
+    fontActive="mono"
+    href=""
+    icons={
+      [
+        {
+          "Component": {
+            "$$typeof": Symbol(react.forward_ref),
+            "render": [Function],
+          },
+          "size": "sm",
+          "sizeIcon": 18,
+        },
+      ]
+    }
+    iconsActive={null}
+    isActive={true}
+    isDisabled={true}
+    isHidden={true}
+    justify="space-between"
+    label=""
+    labelActive=""
+    lines={2}
+    margin="5 15 3"
+    name=""
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={null}
+    padding="5 15 3"
+    select={null}
+    shadow="lg"
+    shadowText="none"
+    shape="rounded.top"
+    size="sm"
+    sizeText="sm"
+    state="active"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId=""
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 5c1083d23 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align="flex-start"
+    alignText="auto"
+    border="md.right"
+    colors={
+      {
+        "bg": "transparent",
+        "bgActive": "transparent",
+        "bgHover": "transparent",
+        "border": "bg.success",
+        "borderActive": "bg.successminus",
+        "borderHover": "bg.successplus",
+        "text": "text.success",
+        "textActive": "text.successminus",
+        "textHover": "text.successplus",
+      }
+    }
+    colorsActive={
+      {
+        "bg": "transparent",
+        "bgActive": "transparent",
+        "bgHover": "transparent",
+        "border": "bg.success",
+        "borderActive": "bg.successminus",
+        "borderHover": "bg.successplus",
+        "text": "text.success",
+        "textActive": "text.successminus",
+        "textHover": "text.successplus",
+      }
+    }
+    direction="column-reverse"
+    events="auto"
+    flex={2}
+    flexText={2}
+    font="mono"
+    fontActive="mono"
+    href=""
+    icons={
+      [
+        null,
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    iconsActive={
+      [
+        null,
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    isActive={true}
+    isDisabled={true}
+    isHidden={true}
+    justify="space-around"
+    label=""
+    labelActive=""
+    lines={2}
+    margin="1 2 3 4"
+    name=""
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={1}
+    padding="1 2 3 4"
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+          {
+            "label": "Button 2",
+            "name": "btn-2",
+          },
+        ],
+      }
+    }
+    shadow="lg"
+    shadowText="md"
+    shape="lg.right"
+    size="auto"
+    sizeText="auto"
+    state="active"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId=""
+  >
+    custom node
+  </test-mock>
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 10f1eac3b3 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align="flex-start"
+    alignText="auto"
+    border="xlg.bottom"
+    colors="secondary"
+    colorsActive="secondary"
+    direction="row"
+    events="box-none"
+    flex={-1}
+    flexText={-1}
+    font="regular"
+    fontActive="regular"
+    href=""
+    icons={
+      [
+        null,
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    iconsActive={
+      [
+        null,
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    isActive={true}
+    isDisabled={true}
+    isHidden={true}
+    justify="center"
+    label="test-id"
+    labelActive="test-id"
+    lines={-1}
+    margin="5 15"
+    name="test-id"
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={1}
+    padding="5 15"
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+          {
+            "label": "Button 2",
+            "name": "btn-2",
+          },
+        ],
+      }
+    }
+    shadow="none"
+    shadowText="md"
+    shape="sm.right"
+    size="sm"
+    sizeText="sm"
+    state="active"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId="test-id"
+  >
+    custom node
+  </test-mock>
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 41e045b79 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align="flex-end"
+    alignText="left"
+    border="sm"
+    colors="secondarytext"
+    colorsActive={null}
+    direction="column"
+    events={null}
+    flex={null}
+    flexText={null}
+    font="regular"
+    fontActive={null}
+    href="https://google.com"
+    icons={
+      [
+        {
+          "Component": {
+            "$$typeof": Symbol(react.forward_ref),
+            "render": [Function],
+          },
+          "size": "sm",
+          "sizeIcon": 18,
+        },
+      ]
+    }
+    iconsActive={null}
+    isActive={false}
+    isDisabled={false}
+    isHidden={false}
+    justify="space-evenly"
+    label={null}
+    labelActive={null}
+    lines={null}
+    margin="-1 -2 -3 -4"
+    name={null}
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={null}
+    padding="-1 -2 -3 -4"
+    select={null}
+    shadow="none"
+    shadowText="none"
+    shape="md"
+    size="auto"
+    sizeText="xxsm"
+    state="hover"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId={null}
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 46c9b839d 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align="baseline"
+    alignText="justify"
+    border="xlg.all"
+    colors={
+      {
+        "bg": "transparent",
+        "bgActive": "transparent",
+        "bgHover": "transparent",
+        "border": "bg.success",
+        "borderActive": "bg.successminus",
+        "borderHover": "bg.successplus",
+        "text": "text.success",
+        "textActive": "text.successminus",
+        "textHover": "text.successplus",
+      }
+    }
+    colorsActive={
+      {
+        "bg": "transparent",
+        "bgActive": "transparent",
+        "bgHover": "transparent",
+        "border": "bg.success",
+        "borderActive": "bg.successminus",
+        "borderHover": "bg.successplus",
+        "text": "text.success",
+        "textActive": "text.successminus",
+        "textHover": "text.successplus",
+      }
+    }
+    direction="column-reverse"
+    events="auto"
+    flex={2}
+    flexText={2}
+    font="mono"
+    fontActive="mono"
+    href="https://google.com"
+    icons={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+      ]
+    }
+    iconsActive={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+      ]
+    }
+    isActive={false}
+    isDisabled={false}
+    isHidden={false}
+    justify="flex-start"
+    label=""
+    labelActive=""
+    lines={2}
+    margin={0}
+    name=""
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={0}
+    padding={0}
+    select={
+      {
+        "buttons": [],
+      }
+    }
+    shadow="lg"
+    shadowText="none"
+    shape="sm.bottom"
+    size="xxsm"
+    sizeText="xxsm"
+    state="hover"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId=""
+  >
+    custom node
+  </test-mock>
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 47daa38ab 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align="baseline"
+    alignText="justify"
+    border="xlg.bottom"
+    colors="secondarytext"
+    colorsActive={null}
+    direction="column"
+    events={null}
+    flex={null}
+    flexText={null}
+    font="regular"
+    fontActive={null}
+    href="https://google.com"
+    icons={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+      ]
+    }
+    iconsActive={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+      ]
+    }
+    isActive={false}
+    isDisabled={false}
+    isHidden={false}
+    justify="space-around"
+    label={null}
+    labelActive={null}
+    lines={null}
+    margin="1 2 3 4"
+    name={null}
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={0}
+    padding="1 2 3 4"
+    select={
+      {
+        "buttons": [],
+      }
+    }
+    shadow="none"
+    shadowText="none"
+    shape="rounded.bottom"
+    size="auto"
+    sizeText="md"
+    state="hover"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId={null}
+  >
+    custom node
+  </test-mock>
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 75ee2d014 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align="stretch"
+    alignText="center"
+    border="md.top"
+    colors="secondary"
+    colorsActive="secondary"
+    direction="row"
+    events="box-none"
+    flex={-1}
+    flexText={-1}
+    font="regular"
+    fontActive="regular"
+    href=""
+    icons={
+      [
+        {
+          "Component": {
+            "$$typeof": Symbol(react.forward_ref),
+            "render": [Function],
+          },
+          "size": "md",
+          "sizeIcon": 36,
+        },
+      ]
+    }
+    iconsActive={null}
+    isActive={true}
+    isDisabled={true}
+    isHidden={true}
+    justify="flex-end"
+    label="test-id"
+    labelActive="test-id"
+    lines={-1}
+    margin={10}
+    name="test-id"
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={null}
+    padding={10}
+    select={null}
+    shadow="none"
+    shadowText="none"
+    shape="lg.top"
+    size="xlg"
+    sizeText="xlg"
+    state="active"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId="test-id"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 86a3b5d4d 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align={null}
+    alignText={null}
+    border="md.left"
+    colors={
+      {
+        "bg": "bg.primaryalt",
+        "bgActive": "bg.primaryaltminus",
+        "bgHover": "bg.primaryaltplus",
+        "border": "transparent",
+        "borderActive": "transparent",
+        "borderHover": "transparent",
+        "text": "text.primary",
+        "textActive": "text.primaryminus",
+        "textHover": "text.primaryplus",
+      }
+    }
+    colorsActive={
+      {
+        "bg": "bg.primaryalt",
+        "bgActive": "bg.primaryaltminus",
+        "bgHover": "bg.primaryaltplus",
+        "border": "transparent",
+        "borderActive": "transparent",
+        "borderHover": "transparent",
+        "text": "text.primary",
+        "textActive": "text.primaryminus",
+        "textHover": "text.primaryplus",
+      }
+    }
+    direction="column"
+    events="box-only"
+    flex={1}
+    flexText={1}
+    font="bold"
+    fontActive="bold"
+    href={null}
+    icons={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    iconsActive={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    isActive={null}
+    isDisabled={null}
+    isHidden={null}
+    justify="space-between"
+    label="Label"
+    labelActive="Label"
+    lines={1}
+    margin="5 15 3"
+    name="Label"
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={0.5}
+    padding="5 15 3"
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+        ],
+      }
+    }
+    shadow="md"
+    shadowText="sm"
+    shape="lg.left"
+    size="auto"
+    sizeText="sm"
+    state={null}
+    style={null}
+    testId="Label"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 90fdc6a5f 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align="baseline"
+    alignText="justify"
+    border="md.bottom"
+    colors="accenttext"
+    colorsActive="accenttext"
+    direction="row-reverse"
+    events="none"
+    flex={0}
+    flexText={0}
+    font="semi"
+    fontActive="semi"
+    href="https://google.com"
+    icons={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+      ]
+    }
+    iconsActive={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+      ]
+    }
+    isActive={false}
+    isDisabled={false}
+    isHidden={false}
+    justify="center"
+    label="button-name"
+    labelActive="button-name"
+    lines={0}
+    margin="5 15"
+    name="button-name"
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={0}
+    padding="5 15"
+    select={
+      {
+        "buttons": [],
+      }
+    }
+    shadow="sm"
+    shadowText="none"
+    shape="lg.bottom"
+    size="xxlg"
+    sizeText="xxlg"
+    state="hover"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId="button-name"
+  >
+    custom node
+  </test-mock>
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 537e574b1 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align="center"
+    alignText="right"
+    border="none"
+    colors="accenttext"
+    colorsActive="accenttext"
+    direction="row-reverse"
+    events="none"
+    flex={0}
+    flexText={0}
+    font="semi"
+    fontActive="semi"
+    href={null}
+    icons={
+      [
+        null,
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    iconsActive={
+      [
+        null,
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    isActive={null}
+    isDisabled={null}
+    isHidden={null}
+    justify="space-evenly"
+    label="button-name"
+    labelActive="button-name"
+    lines={0}
+    margin="-1 -2 -3 -4"
+    name="button-name"
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={1}
+    padding="-1 -2 -3 -4"
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+          {
+            "label": "Button 2",
+            "name": "btn-2",
+          },
+        ],
+      }
+    }
+    shadow="sm"
+    shadowText="md"
+    shape="sm.all"
+    size="md"
+    sizeText="sm"
+    state={null}
+    style={null}
+    testId="button-name"
+  >
+    custom node
+  </test-mock>
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 40177f836 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align="center"
+    alignText="right"
+    border="md.all"
+    colors="secondarytext"
+    colorsActive={null}
+    direction="column"
+    events={null}
+    flex={null}
+    flexText={null}
+    font="regular"
+    fontActive={null}
+    href={null}
+    icons={
+      [
+        null,
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    iconsActive={
+      [
+        null,
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    isActive={null}
+    isDisabled={null}
+    isHidden={null}
+    justify="flex-start"
+    label={null}
+    labelActive={null}
+    lines={null}
+    margin={0}
+    name={null}
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={1}
+    padding={0}
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+          {
+            "label": "Button 2",
+            "name": "btn-2",
+          },
+        ],
+      }
+    }
+    shadow="none"
+    shadowText="md"
+    shape="lg.all"
+    size="auto"
+    sizeText="lg"
+    state={null}
+    style={null}
+    testId={null}
+  >
+    custom node
+  </test-mock>
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders 497312b58 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align="flex-start"
+    alignText="auto"
+    border="none"
+    colors="secondary"
+    colorsActive="secondary"
+    direction="row"
+    events="box-none"
+    flex={-1}
+    flexText={-1}
+    font="regular"
+    fontActive="regular"
+    href=""
+    icons={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+      ]
+    }
+    iconsActive={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+      ]
+    }
+    isActive={true}
+    isDisabled={true}
+    isHidden={true}
+    justify="flex-start"
+    label="test-id"
+    labelActive="test-id"
+    lines={-1}
+    margin={0}
+    name="test-id"
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={0}
+    padding={0}
+    select={
+      {
+        "buttons": [],
+      }
+    }
+    shadow="none"
+    shadowText="none"
+    shape="none"
+    size="auto"
+    sizeText="auto"
+    state="active"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId="test-id"
+  >
+    custom node
+  </test-mock>
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders b3f42ca8a 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align="flex-start"
+    alignText="auto"
+    border="sm.right"
+    colors="secondarytext"
+    colorsActive={null}
+    direction="column"
+    events={null}
+    flex={null}
+    flexText={null}
+    font="regular"
+    fontActive={null}
+    href=""
+    icons={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+      ]
+    }
+    iconsActive={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+      ]
+    }
+    isActive={true}
+    isDisabled={true}
+    isHidden={true}
+    justify="space-between"
+    label={null}
+    labelActive={null}
+    lines={null}
+    margin="5 15 3"
+    name={null}
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={0}
+    padding="5 15 3"
+    select={
+      {
+        "buttons": [],
+      }
+    }
+    shadow="none"
+    shadowText="none"
+    shape="md.right"
+    size="auto"
+    sizeText="xlg"
+    state="active"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId={null}
+  >
+    custom node
+  </test-mock>
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Loading renders d16d3b79 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    align={null}
+    alignText={null}
+    border="xlg.left"
+    colors="secondary"
+    colorsActive="secondary"
+    direction="row"
+    events="box-none"
+    flex={-1}
+    flexText={-1}
+    font="regular"
+    fontActive="regular"
+    href={null}
+    icons={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    iconsActive={
+      [
+        {
+          "Component": [Function],
+          "name": "checkbox",
+        },
+        {
+          "Component": [Function],
+          "name": "add",
+        },
+      ]
+    }
+    isActive={null}
+    isDisabled={null}
+    isHidden={null}
+    justify="space-evenly"
+    label="test-id"
+    labelActive="test-id"
+    lines={-1}
+    margin="-1 -2 -3 -4"
+    name="test-id"
+    onPress={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={0.5}
+    padding="-1 -2 -3 -4"
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+        ],
+      }
+    }
+    shadow="none"
+    shadowText="sm"
+    shape="rounded.left"
+    size="lg"
+    sizeText="lg"
+    state={null}
+    style={null}
+    testId="test-id"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;

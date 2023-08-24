@@ -1,0 +1,3535 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`spec/LoadingView renders [EMPTY] 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border={null}
+    colors="secondary"
+    flex={null}
+    href={null}
+    isDisabled={null}
+    isHidden={null}
+    margin={null}
+    onPress={null}
+    padding={null}
+    shadow={null}
+    shape={null}
+    style={null}
+    testId={null}
+  >
+    <test-mock
+      align={null}
+      colors="none"
+      direction={null}
+      flex={null}
+      isHidden={null}
+      justify={null}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 03bdfbeb2f 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="lg.all"
+    colors={
+      {
+        "bg": "transparent",
+        "bgActive": "transparent",
+        "bgHover": "transparent",
+        "border": "bg.success",
+        "borderActive": "bg.successminus",
+        "borderHover": "bg.successplus",
+        "text": "text.success",
+        "textActive": "text.successminus",
+        "textHover": "text.successplus",
+      }
+    }
+    flex={2}
+    href={null}
+    isDisabled={null}
+    isHidden={null}
+    margin={10}
+    onPress={[Function]}
+    padding={10}
+    shadow="lg"
+    shape="xlg.all"
+    style={null}
+    testId=""
+  >
+    <test-mock
+      align="center"
+      colors="none"
+      direction="column-reverse"
+      flex={2}
+      isHidden={null}
+      justify="flex-end"
+    >
+      custom node
+    </test-mock>
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 04a2564840 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border={null}
+    colors="secondary"
+    flex={-1}
+    href="https://google.com"
+    isDisabled={false}
+    isHidden={false}
+    margin="1 2 3 4"
+    onPress={null}
+    padding="1 2 3 4"
+    shadow="none"
+    shape="sm"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId="test-id"
+  >
+    <test-mock
+      align="flex-end"
+      colors="none"
+      direction="row"
+      flex={-1}
+      isHidden={false}
+      justify="space-around"
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 06a1d5ed9a 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="md.right"
+    colors={
+      {
+        "bg": "transparent",
+        "bgActive": "transparent",
+        "bgHover": "transparent",
+        "border": "bg.success",
+        "borderActive": "bg.successminus",
+        "borderHover": "bg.successplus",
+        "text": "text.success",
+        "textActive": "text.successminus",
+        "textHover": "text.successplus",
+      }
+    }
+    flex={2}
+    href=""
+    isDisabled={true}
+    isHidden={true}
+    margin="1 2 3 4"
+    onPress={[Function]}
+    padding="1 2 3 4"
+    shadow="lg"
+    shape="lg.right"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId=""
+  >
+    <test-mock
+      align="flex-start"
+      colors="none"
+      direction="column-reverse"
+      flex={2}
+      isHidden={true}
+      justify="space-around"
+    >
+      custom node
+    </test-mock>
+    <test-mock
+      align="flex-start"
+      alignText="auto"
+      colors={
+        {
+          "bg": "transparent",
+          "bgActive": "transparent",
+          "bgHover": "transparent",
+          "border": "bg.success",
+          "borderActive": "bg.successminus",
+          "borderHover": "bg.successplus",
+          "text": "text.success",
+          "textActive": "text.successminus",
+          "textHover": "text.successplus",
+        }
+      }
+      colorsActive={
+        {
+          "bg": "transparent",
+          "bgActive": "transparent",
+          "bgHover": "transparent",
+          "border": "bg.success",
+          "borderActive": "bg.successminus",
+          "borderHover": "bg.successplus",
+          "text": "text.success",
+          "textActive": "text.successminus",
+          "textHover": "text.successplus",
+        }
+      }
+      direction="column-reverse"
+      events="auto"
+      flex={2}
+      flexText={2}
+      font="mono"
+      fontActive="mono"
+      icons={
+        [
+          null,
+          {
+            "Component": [Function],
+            "name": "add",
+          },
+        ]
+      }
+      iconsActive={
+        [
+          null,
+          {
+            "Component": [Function],
+            "name": "add",
+          },
+        ]
+      }
+      isActive={true}
+      justify="space-around"
+      label="Loading..."
+      labelActive=""
+      lines={2}
+      name=""
+      onPressIn={[Function]}
+      onPressOut={[Function]}
+      onState={[Function]}
+      opacityDisabled={1}
+      select={
+        {
+          "buttons": [
+            {
+              "label": "Button 1",
+              "name": "btn-1",
+            },
+            {
+              "label": "Button 2",
+              "name": "btn-2",
+            },
+          ],
+        }
+      }
+      shadowText="md"
+      size="auto"
+      sizeText="auto"
+      state="active"
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 07f6b778ab 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="sm.left"
+    colors={
+      {
+        "bg": "transparent",
+        "bgActive": "transparent",
+        "bgHover": "transparent",
+        "border": "bg.success",
+        "borderActive": "bg.successminus",
+        "borderHover": "bg.successplus",
+        "text": "text.success",
+        "textActive": "text.successminus",
+        "textHover": "text.successplus",
+      }
+    }
+    flex={2}
+    href={null}
+    isDisabled={null}
+    isHidden={null}
+    margin="5 15"
+    onPress={null}
+    padding="5 15"
+    shadow="lg"
+    shape="md.left"
+    style={null}
+    testId=""
+  >
+    <test-mock
+      align={null}
+      colors="none"
+      direction="column-reverse"
+      flex={2}
+      isHidden={null}
+      justify="center"
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 08dc46dff9 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="md.top"
+    colors="secondary"
+    flex={-1}
+    href=""
+    isDisabled={true}
+    isHidden={true}
+    margin={10}
+    onPress={null}
+    padding={10}
+    shadow="none"
+    shape="lg.top"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId="test-id"
+  >
+    <test-mock
+      align="stretch"
+      colors="none"
+      direction="row"
+      flex={-1}
+      isHidden={true}
+      justify="flex-end"
+    />
+    <test-mock
+      align="stretch"
+      alignText="center"
+      colors="secondary"
+      colorsActive="secondary"
+      direction="row"
+      events="box-none"
+      flex={-1}
+      flexText={-1}
+      font="regular"
+      fontActive="regular"
+      icons={null}
+      iconsActive={null}
+      isActive={true}
+      justify="flex-end"
+      label="test-id"
+      labelActive="test-id"
+      lines={-1}
+      name="test-id"
+      onPressIn={null}
+      onPressOut={null}
+      onState={null}
+      opacityDisabled={null}
+      select={null}
+      shadowText={null}
+      size="xlg"
+      sizeText="xlg"
+      state="active"
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 020f7c314c 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="sm.bottom"
+    colors={
+      {
+        "bg": "bg.primaryalt",
+        "bgActive": "bg.primaryaltminus",
+        "bgHover": "bg.primaryaltplus",
+        "border": "transparent",
+        "borderActive": "transparent",
+        "borderHover": "transparent",
+        "text": "text.primary",
+        "textActive": "text.primaryminus",
+        "textHover": "text.primaryplus",
+      }
+    }
+    flex={1}
+    href="https://google.com"
+    isDisabled={false}
+    isHidden={false}
+    margin={10}
+    onPress={[Function]}
+    padding={10}
+    shadow="md"
+    shape="md.bottom"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId="Label"
+  >
+    <test-mock
+      align="baseline"
+      colors="none"
+      direction="column"
+      flex={1}
+      isHidden={false}
+      justify="flex-end"
+    >
+      custom node
+    </test-mock>
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 038b3b96e0 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="none"
+    colors="accenttext"
+    flex={0}
+    href={null}
+    isDisabled={null}
+    isHidden={null}
+    margin="-1 -2 -3 -4"
+    onPress={[Function]}
+    padding="-1 -2 -3 -4"
+    shadow="sm"
+    shape="sm.all"
+    style={null}
+    testId="button-name"
+  >
+    <test-mock
+      align="center"
+      colors="none"
+      direction="row-reverse"
+      flex={0}
+      isHidden={null}
+      justify="space-evenly"
+    >
+      custom node
+    </test-mock>
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 047e23029a 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="md"
+    colors={
+      {
+        "bg": "transparent",
+        "bgActive": "transparent",
+        "bgHover": "transparent",
+        "border": "bg.success",
+        "borderActive": "bg.successminus",
+        "borderHover": "bg.successplus",
+        "text": "text.success",
+        "textActive": "text.successminus",
+        "textHover": "text.successplus",
+      }
+    }
+    flex={2}
+    href="https://google.com"
+    isDisabled={false}
+    isHidden={false}
+    margin={null}
+    onPress={null}
+    padding={null}
+    shadow="lg"
+    shape="lg"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId=""
+  >
+    <test-mock
+      align="flex-end"
+      colors="none"
+      direction="column-reverse"
+      flex={2}
+      isHidden={false}
+      justify={null}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 075c97f455 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="xlg.right"
+    colors="accenttext"
+    flex={0}
+    href=""
+    isDisabled={true}
+    isHidden={true}
+    margin={null}
+    onPress={[Function]}
+    padding={null}
+    shadow="sm"
+    shape="rounded.right"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId="button-name"
+  >
+    <test-mock
+      align="flex-start"
+      colors="none"
+      direction="row-reverse"
+      flex={0}
+      isHidden={true}
+      justify={null}
+    >
+      custom node
+    </test-mock>
+    <test-mock
+      align="flex-start"
+      alignText="auto"
+      colors="accenttext"
+      colorsActive="accenttext"
+      direction="row-reverse"
+      events="none"
+      flex={0}
+      flexText={0}
+      font="semi"
+      fontActive="semi"
+      icons={
+        [
+          null,
+          {
+            "Component": [Function],
+            "name": "add",
+          },
+        ]
+      }
+      iconsActive={
+        [
+          null,
+          {
+            "Component": [Function],
+            "name": "add",
+          },
+        ]
+      }
+      isActive={true}
+      justify={null}
+      label="button-name"
+      labelActive="button-name"
+      lines={0}
+      name="button-name"
+      onPressIn={[Function]}
+      onPressOut={[Function]}
+      onState={[Function]}
+      opacityDisabled={1}
+      select={
+        {
+          "buttons": [
+            {
+              "label": "Button 1",
+              "name": "btn-1",
+            },
+            {
+              "label": "Button 2",
+              "name": "btn-2",
+            },
+          ],
+        }
+      }
+      shadowText="md"
+      size="xlg"
+      sizeText="xlg"
+      state="active"
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 0460f79bbd 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="none"
+    colors="secondary"
+    flex={-1}
+    href=""
+    isDisabled={true}
+    isHidden={true}
+    margin={0}
+    onPress={[Function]}
+    padding={0}
+    shadow="none"
+    shape="none"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId="test-id"
+  >
+    <test-mock
+      align="flex-start"
+      colors="none"
+      direction="row"
+      flex={-1}
+      isHidden={true}
+      justify="flex-start"
+    >
+      custom node
+    </test-mock>
+    <test-mock
+      align="flex-start"
+      alignText="auto"
+      colors="secondary"
+      colorsActive="secondary"
+      direction="row"
+      events="box-none"
+      flex={-1}
+      flexText={-1}
+      font="regular"
+      fontActive="regular"
+      icons={
+        [
+          {
+            "Component": [Function],
+            "name": "checkbox",
+          },
+        ]
+      }
+      iconsActive={
+        [
+          {
+            "Component": [Function],
+            "name": "checkbox",
+          },
+        ]
+      }
+      isActive={true}
+      justify="flex-start"
+      label="test-id"
+      labelActive="test-id"
+      lines={-1}
+      name="test-id"
+      onPressIn={[Function]}
+      onPressOut={[Function]}
+      onState={[Function]}
+      opacityDisabled={0}
+      select={
+        {
+          "buttons": [],
+        }
+      }
+      shadowText="none"
+      size="auto"
+      sizeText="auto"
+      state="active"
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 01125aca978 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="xlg.bottom"
+    colors="secondary"
+    flex={-1}
+    href=""
+    isDisabled={true}
+    isHidden={true}
+    margin="5 15"
+    onPress={[Function]}
+    padding="5 15"
+    shadow="none"
+    shape="sm.right"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId="test-id"
+  >
+    <test-mock
+      align="flex-start"
+      colors="none"
+      direction="row"
+      flex={-1}
+      isHidden={true}
+      justify="center"
+    >
+      custom node
+    </test-mock>
+    <test-mock
+      align="flex-start"
+      alignText="auto"
+      colors="secondary"
+      colorsActive="secondary"
+      direction="row"
+      events="box-none"
+      flex={-1}
+      flexText={-1}
+      font="regular"
+      fontActive="regular"
+      icons={
+        [
+          null,
+          {
+            "Component": [Function],
+            "name": "add",
+          },
+        ]
+      }
+      iconsActive={
+        [
+          null,
+          {
+            "Component": [Function],
+            "name": "add",
+          },
+        ]
+      }
+      isActive={true}
+      justify="center"
+      label="test-id"
+      labelActive="test-id"
+      lines={-1}
+      name="test-id"
+      onPressIn={[Function]}
+      onPressOut={[Function]}
+      onState={[Function]}
+      opacityDisabled={1}
+      select={
+        {
+          "buttons": [
+            {
+              "label": "Button 1",
+              "name": "btn-1",
+            },
+            {
+              "label": "Button 2",
+              "name": "btn-2",
+            },
+          ],
+        }
+      }
+      shadowText="md"
+      size="sm"
+      sizeText="sm"
+      state="active"
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 03646bf401 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="lg"
+    colors={
+      {
+        "bg": "bg.primaryalt",
+        "bgActive": "bg.primaryaltminus",
+        "bgHover": "bg.primaryaltplus",
+        "border": "transparent",
+        "borderActive": "transparent",
+        "borderHover": "transparent",
+        "text": "text.primary",
+        "textActive": "text.primaryminus",
+        "textHover": "text.primaryplus",
+      }
+    }
+    flex={1}
+    href="https://google.com"
+    isDisabled={false}
+    isHidden={false}
+    margin={0}
+    onPress={null}
+    padding={0}
+    shadow="md"
+    shape="xlg"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId="Label"
+  >
+    <test-mock
+      align="flex-end"
+      colors="none"
+      direction="column"
+      flex={1}
+      isHidden={false}
+      justify="flex-start"
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 06680e2dd0 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="lg.right"
+    colors={
+      {
+        "bg": "bg.primaryalt",
+        "bgActive": "bg.primaryaltminus",
+        "bgHover": "bg.primaryaltplus",
+        "border": "transparent",
+        "borderActive": "transparent",
+        "borderHover": "transparent",
+        "text": "text.primary",
+        "textActive": "text.primaryminus",
+        "textHover": "text.primaryplus",
+      }
+    }
+    flex={1}
+    href=""
+    isDisabled={true}
+    isHidden={true}
+    margin="-1 -2 -3 -4"
+    onPress={[Function]}
+    padding="-1 -2 -3 -4"
+    shadow="md"
+    shape="xlg.right"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId="Label"
+  >
+    <test-mock
+      align="flex-start"
+      colors="none"
+      direction="column"
+      flex={1}
+      isHidden={true}
+      justify="space-evenly"
+    >
+      custom node
+    </test-mock>
+    <test-mock
+      align="flex-start"
+      alignText="auto"
+      colors={
+        {
+          "bg": "bg.primaryalt",
+          "bgActive": "bg.primaryaltminus",
+          "bgHover": "bg.primaryaltplus",
+          "border": "transparent",
+          "borderActive": "transparent",
+          "borderHover": "transparent",
+          "text": "text.primary",
+          "textActive": "text.primaryminus",
+          "textHover": "text.primaryplus",
+        }
+      }
+      colorsActive={
+        {
+          "bg": "bg.primaryalt",
+          "bgActive": "bg.primaryaltminus",
+          "bgHover": "bg.primaryaltplus",
+          "border": "transparent",
+          "borderActive": "transparent",
+          "borderHover": "transparent",
+          "text": "text.primary",
+          "textActive": "text.primaryminus",
+          "textHover": "text.primaryplus",
+        }
+      }
+      direction="column"
+      events="box-only"
+      flex={1}
+      flexText={1}
+      font="bold"
+      fontActive="bold"
+      icons={
+        [
+          {
+            "Component": [Function],
+            "name": "checkbox",
+          },
+        ]
+      }
+      iconsActive={
+        [
+          {
+            "Component": [Function],
+            "name": "checkbox",
+          },
+        ]
+      }
+      isActive={true}
+      justify="space-evenly"
+      label="Label"
+      labelActive="Label"
+      lines={1}
+      name="Label"
+      onPressIn={[Function]}
+      onPressOut={[Function]}
+      onState={[Function]}
+      opacityDisabled={0}
+      select={
+        {
+          "buttons": [],
+        }
+      }
+      shadowText="none"
+      size="sm"
+      sizeText="sm"
+      state="active"
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 06807bc241 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="sm.all"
+    colors="secondary"
+    flex={-1}
+    href={null}
+    isDisabled={null}
+    isHidden={null}
+    margin={null}
+    onPress={[Function]}
+    padding={null}
+    shadow="none"
+    shape="md.all"
+    style={null}
+    testId="test-id"
+  >
+    <test-mock
+      align="center"
+      colors="none"
+      direction="row"
+      flex={-1}
+      isHidden={null}
+      justify={null}
+    >
+      custom node
+    </test-mock>
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 070280a435 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="xlg.top"
+    colors="secondary"
+    flex={null}
+    href={null}
+    isDisabled={null}
+    isHidden={null}
+    margin={10}
+    onPress={null}
+    padding={10}
+    shadow={null}
+    shape="sm.left"
+    style={null}
+    testId={null}
+  >
+    <test-mock
+      align={null}
+      colors="none"
+      direction={null}
+      flex={null}
+      isHidden={null}
+      justify="flex-end"
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 082150ab52 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="sm.top"
+    colors="accenttext"
+    flex={0}
+    href=""
+    isDisabled={true}
+    isHidden={true}
+    margin={0}
+    onPress={null}
+    padding={0}
+    shadow="sm"
+    shape="md.top"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId="button-name"
+  >
+    <test-mock
+      align="stretch"
+      colors="none"
+      direction="row-reverse"
+      flex={0}
+      isHidden={true}
+      justify="flex-start"
+    />
+    <test-mock
+      align="stretch"
+      alignText="center"
+      colors="accenttext"
+      colorsActive="accenttext"
+      direction="row-reverse"
+      events="none"
+      flex={0}
+      flexText={0}
+      font="semi"
+      fontActive="semi"
+      icons={
+        [
+          {
+            "Component": [Function],
+            "name": "checkbox",
+          },
+          {
+            "Component": [Function],
+            "name": "add",
+          },
+        ]
+      }
+      iconsActive={
+        [
+          {
+            "Component": [Function],
+            "name": "checkbox",
+          },
+          {
+            "Component": [Function],
+            "name": "add",
+          },
+        ]
+      }
+      isActive={true}
+      justify="flex-start"
+      label="button-name"
+      labelActive="button-name"
+      lines={0}
+      name="button-name"
+      onPressIn={null}
+      onPressOut={null}
+      onState={null}
+      opacityDisabled={0.5}
+      select={
+        {
+          "buttons": [
+            {
+              "label": "Button 1",
+              "name": "btn-1",
+            },
+          ],
+        }
+      }
+      shadowText="sm"
+      size="sm"
+      sizeText="sm"
+      state="active"
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 0480960ea8 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="lg.bottom"
+    colors="secondary"
+    flex={-1}
+    href="https://google.com"
+    isDisabled={false}
+    isHidden={false}
+    margin="5 15 3"
+    onPress={[Function]}
+    padding="5 15 3"
+    shadow="none"
+    shape="xlg.bottom"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId="test-id"
+  >
+    <test-mock
+      align="baseline"
+      colors="none"
+      direction="row"
+      flex={-1}
+      isHidden={false}
+      justify="space-between"
+    >
+      custom node
+    </test-mock>
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 0801399005 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="xlg"
+    colors={
+      {
+        "bg": "bg.primaryalt",
+        "bgActive": "bg.primaryaltminus",
+        "bgHover": "bg.primaryaltplus",
+        "border": "transparent",
+        "borderActive": "transparent",
+        "borderHover": "transparent",
+        "text": "text.primary",
+        "textActive": "text.primaryminus",
+        "textHover": "text.primaryplus",
+      }
+    }
+    flex={1}
+    href=""
+    isDisabled={true}
+    isHidden={true}
+    margin={null}
+    onPress={null}
+    padding={null}
+    shadow="md"
+    shape="sm.top"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId="Label"
+  >
+    <test-mock
+      align="stretch"
+      colors="none"
+      direction="column"
+      flex={1}
+      isHidden={true}
+      justify={null}
+    />
+    <test-mock
+      align="stretch"
+      alignText="center"
+      colors={
+        {
+          "bg": "bg.primaryalt",
+          "bgActive": "bg.primaryaltminus",
+          "bgHover": "bg.primaryaltplus",
+          "border": "transparent",
+          "borderActive": "transparent",
+          "borderHover": "transparent",
+          "text": "text.primary",
+          "textActive": "text.primaryminus",
+          "textHover": "text.primaryplus",
+        }
+      }
+      colorsActive={
+        {
+          "bg": "bg.primaryalt",
+          "bgActive": "bg.primaryaltminus",
+          "bgHover": "bg.primaryaltplus",
+          "border": "transparent",
+          "borderActive": "transparent",
+          "borderHover": "transparent",
+          "text": "text.primary",
+          "textActive": "text.primaryminus",
+          "textHover": "text.primaryplus",
+        }
+      }
+      direction="column"
+      events="box-only"
+      flex={1}
+      flexText={1}
+      font="bold"
+      fontActive="bold"
+      icons={null}
+      iconsActive={null}
+      isActive={true}
+      justify={null}
+      label="Label"
+      labelActive="Label"
+      lines={1}
+      name="Label"
+      onPressIn={null}
+      onPressOut={null}
+      onState={null}
+      opacityDisabled={null}
+      select={null}
+      shadowText={null}
+      size="auto"
+      sizeText="auto"
+      state="active"
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 0a29285d6c 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="md.bottom"
+    colors="accenttext"
+    flex={0}
+    href="https://google.com"
+    isDisabled={false}
+    isHidden={false}
+    margin="5 15"
+    onPress={[Function]}
+    padding="5 15"
+    shadow="sm"
+    shape="lg.bottom"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId="button-name"
+  >
+    <test-mock
+      align="baseline"
+      colors="none"
+      direction="row-reverse"
+      flex={0}
+      isHidden={false}
+      justify="center"
+    >
+      custom node
+    </test-mock>
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 0c8d95027f 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="sm.right"
+    colors="secondary"
+    flex={null}
+    href=""
+    isDisabled={true}
+    isHidden={true}
+    margin="5 15 3"
+    onPress={[Function]}
+    padding="5 15 3"
+    shadow={null}
+    shape="md.right"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId={null}
+  >
+    <test-mock
+      align="flex-start"
+      colors="none"
+      direction={null}
+      flex={null}
+      isHidden={true}
+      justify="space-between"
+    >
+      custom node
+    </test-mock>
+    <test-mock
+      align="flex-start"
+      alignText="auto"
+      colors={null}
+      colorsActive={null}
+      direction={null}
+      events={null}
+      flex={null}
+      flexText={null}
+      font={null}
+      fontActive={null}
+      icons={
+        [
+          {
+            "Component": [Function],
+            "name": "checkbox",
+          },
+        ]
+      }
+      iconsActive={
+        [
+          {
+            "Component": [Function],
+            "name": "checkbox",
+          },
+        ]
+      }
+      isActive={true}
+      justify="space-between"
+      label="Loading..."
+      labelActive={null}
+      lines={null}
+      name={null}
+      onPressIn={[Function]}
+      onPressOut={[Function]}
+      onState={[Function]}
+      opacityDisabled={0}
+      select={
+        {
+          "buttons": [],
+        }
+      }
+      shadowText="none"
+      size="xlg"
+      sizeText="xlg"
+      state="active"
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 0c537e28a4 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="md.left"
+    colors={
+      {
+        "bg": "bg.primaryalt",
+        "bgActive": "bg.primaryaltminus",
+        "bgHover": "bg.primaryaltplus",
+        "border": "transparent",
+        "borderActive": "transparent",
+        "borderHover": "transparent",
+        "text": "text.primary",
+        "textActive": "text.primaryminus",
+        "textHover": "text.primaryplus",
+      }
+    }
+    flex={1}
+    href={null}
+    isDisabled={null}
+    isHidden={null}
+    margin="5 15 3"
+    onPress={null}
+    padding="5 15 3"
+    shadow="md"
+    shape="lg.left"
+    style={null}
+    testId="Label"
+  >
+    <test-mock
+      align={null}
+      colors="none"
+      direction="column"
+      flex={1}
+      isHidden={null}
+      justify="space-between"
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 2dc1f059 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="xlg.all"
+    colors={
+      {
+        "bg": "transparent",
+        "bgActive": "transparent",
+        "bgHover": "transparent",
+        "border": "bg.success",
+        "borderActive": "bg.successminus",
+        "borderHover": "bg.successplus",
+        "text": "text.success",
+        "textActive": "text.successminus",
+        "textHover": "text.successplus",
+      }
+    }
+    flex={2}
+    href="https://google.com"
+    isDisabled={false}
+    isHidden={false}
+    margin={0}
+    onPress={[Function]}
+    padding={0}
+    shadow="lg"
+    shape="sm.bottom"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId=""
+  >
+    <test-mock
+      align="baseline"
+      colors="none"
+      direction="column-reverse"
+      flex={2}
+      isHidden={false}
+      justify="flex-start"
+    >
+      custom node
+    </test-mock>
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 4abac3857 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="sm"
+    colors="secondary"
+    flex={null}
+    href="https://google.com"
+    isDisabled={false}
+    isHidden={false}
+    margin="-1 -2 -3 -4"
+    onPress={null}
+    padding="-1 -2 -3 -4"
+    shadow={null}
+    shape="md"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId={null}
+  >
+    <test-mock
+      align="flex-end"
+      colors="none"
+      direction={null}
+      flex={null}
+      isHidden={false}
+      justify="space-evenly"
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 4d3b82c4c 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="lg.top"
+    colors="secondary"
+    flex={null}
+    href=""
+    isDisabled={true}
+    isHidden={true}
+    margin="5 15"
+    onPress={null}
+    padding="5 15"
+    shadow={null}
+    shape="xlg.top"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId={null}
+  >
+    <test-mock
+      align="stretch"
+      colors="none"
+      direction={null}
+      flex={null}
+      isHidden={true}
+      justify="center"
+    />
+    <test-mock
+      align="stretch"
+      alignText="center"
+      colors={null}
+      colorsActive={null}
+      direction={null}
+      events={null}
+      flex={null}
+      flexText={null}
+      font={null}
+      fontActive={null}
+      icons={
+        [
+          {
+            "Component": [Function],
+            "name": "checkbox",
+          },
+          {
+            "Component": [Function],
+            "name": "add",
+          },
+        ]
+      }
+      iconsActive={
+        [
+          {
+            "Component": [Function],
+            "name": "checkbox",
+          },
+          {
+            "Component": [Function],
+            "name": "add",
+          },
+        ]
+      }
+      isActive={true}
+      justify="center"
+      label="Loading..."
+      labelActive={null}
+      lines={null}
+      name={null}
+      onPressIn={null}
+      onPressOut={null}
+      onState={null}
+      opacityDisabled={0.5}
+      select={
+        {
+          "buttons": [
+            {
+              "label": "Button 1",
+              "name": "btn-1",
+            },
+          ],
+        }
+      }
+      shadowText="sm"
+      size="auto"
+      sizeText="auto"
+      state="active"
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 6bffc0968 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="xlg"
+    colors="accenttext"
+    flex={0}
+    href="https://google.com"
+    isDisabled={false}
+    isHidden={false}
+    margin={10}
+    onPress={null}
+    padding={10}
+    shadow="sm"
+    shape="rounded"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId="button-name"
+  >
+    <test-mock
+      align="flex-end"
+      colors="none"
+      direction="row-reverse"
+      flex={0}
+      isHidden={false}
+      justify="flex-end"
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 38dbbed09 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="xlg.bottom"
+    colors="secondary"
+    flex={null}
+    href="https://google.com"
+    isDisabled={false}
+    isHidden={false}
+    margin="1 2 3 4"
+    onPress={[Function]}
+    padding="1 2 3 4"
+    shadow={null}
+    shape="rounded.bottom"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId={null}
+  >
+    <test-mock
+      align="baseline"
+      colors="none"
+      direction={null}
+      flex={null}
+      isHidden={false}
+      justify="space-around"
+    >
+      custom node
+    </test-mock>
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 343affec9 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="xlg.left"
+    colors="secondary"
+    flex={-1}
+    href={null}
+    isDisabled={null}
+    isHidden={null}
+    margin="-1 -2 -3 -4"
+    onPress={null}
+    padding="-1 -2 -3 -4"
+    shadow="none"
+    shape="rounded.left"
+    style={null}
+    testId="test-id"
+  >
+    <test-mock
+      align={null}
+      colors="none"
+      direction="row"
+      flex={-1}
+      isHidden={null}
+      justify="space-evenly"
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 40177f836 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="md.all"
+    colors="secondary"
+    flex={null}
+    href={null}
+    isDisabled={null}
+    isHidden={null}
+    margin={0}
+    onPress={[Function]}
+    padding={0}
+    shadow={null}
+    shape="lg.all"
+    style={null}
+    testId={null}
+  >
+    <test-mock
+      align="center"
+      colors="none"
+      direction={null}
+      flex={null}
+      isHidden={null}
+      justify="flex-start"
+    >
+      custom node
+    </test-mock>
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders 410439b8e 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="xlg.all"
+    colors={
+      {
+        "bg": "bg.primaryalt",
+        "bgActive": "bg.primaryaltminus",
+        "bgHover": "bg.primaryaltplus",
+        "border": "transparent",
+        "borderActive": "transparent",
+        "borderHover": "transparent",
+        "text": "text.primary",
+        "textActive": "text.primaryminus",
+        "textHover": "text.primaryplus",
+      }
+    }
+    flex={1}
+    href={null}
+    isDisabled={null}
+    isHidden={null}
+    margin="5 15"
+    onPress={[Function]}
+    padding="5 15"
+    shadow="md"
+    shape="rounded.all"
+    style={null}
+    testId="Label"
+  >
+    <test-mock
+      align="center"
+      colors="none"
+      direction="column"
+      flex={1}
+      isHidden={null}
+      justify="center"
+    >
+      custom node
+    </test-mock>
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders c3044bece 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="xlg.top"
+    colors={
+      {
+        "bg": "transparent",
+        "bgActive": "transparent",
+        "bgHover": "transparent",
+        "border": "bg.success",
+        "borderActive": "bg.successminus",
+        "borderHover": "bg.successplus",
+        "text": "text.success",
+        "textActive": "text.successminus",
+        "textHover": "text.successplus",
+      }
+    }
+    flex={2}
+    href=""
+    isDisabled={true}
+    isHidden={true}
+    margin="5 15 3"
+    onPress={null}
+    padding="5 15 3"
+    shadow="lg"
+    shape="rounded.top"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId=""
+  >
+    <test-mock
+      align="stretch"
+      colors="none"
+      direction="column-reverse"
+      flex={2}
+      isHidden={true}
+      justify="space-between"
+    />
+    <test-mock
+      align="stretch"
+      alignText="center"
+      colors={
+        {
+          "bg": "transparent",
+          "bgActive": "transparent",
+          "bgHover": "transparent",
+          "border": "bg.success",
+          "borderActive": "bg.successminus",
+          "borderHover": "bg.successplus",
+          "text": "text.success",
+          "textActive": "text.successminus",
+          "textHover": "text.successplus",
+        }
+      }
+      colorsActive={
+        {
+          "bg": "transparent",
+          "bgActive": "transparent",
+          "bgHover": "transparent",
+          "border": "bg.success",
+          "borderActive": "bg.successminus",
+          "borderHover": "bg.successplus",
+          "text": "text.success",
+          "textActive": "text.successminus",
+          "textHover": "text.successplus",
+        }
+      }
+      direction="column-reverse"
+      events="auto"
+      flex={2}
+      flexText={2}
+      font="mono"
+      fontActive="mono"
+      icons={null}
+      iconsActive={null}
+      isActive={true}
+      justify="space-between"
+      label="Loading..."
+      labelActive=""
+      lines={2}
+      name=""
+      onPressIn={null}
+      onPressOut={null}
+      onState={null}
+      opacityDisabled={null}
+      select={null}
+      shadowText={null}
+      size="sm"
+      sizeText="sm"
+      state="active"
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/LoadingView renders ebd43e50 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    border="lg.left"
+    colors="accenttext"
+    flex={0}
+    href={null}
+    isDisabled={null}
+    isHidden={null}
+    margin="1 2 3 4"
+    onPress={null}
+    padding="1 2 3 4"
+    shadow="sm"
+    shape="xlg.left"
+    style={null}
+    testId="button-name"
+  >
+    <test-mock
+      align={null}
+      colors="none"
+      direction="row-reverse"
+      flex={0}
+      isHidden={null}
+      justify="space-around"
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;

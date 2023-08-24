@@ -1,0 +1,161 @@
+{
+    "ignorePatterns": [
+        "__mocks__/**",
+        "conf/**",
+        "scripts/**",
+        "reports/**",
+        "doc/**",
+        "web-build/**",
+        "web/**",
+        "src/index.d.ts"
+    ],
+    "extends": [
+        "eslint-config-airbnb-base",
+        "airbnb/rules/react",
+        "plugin:@typescript-eslint/recommended"
+    ],
+    "parser": "@typescript-eslint/parser",
+    "plugins": [
+        "@typescript-eslint",
+        "react",
+        "react-hooks"
+    ],
+    "settings": {
+        "import/extensions": [
+            ".js",
+            ".d.ts",
+            ".ts",
+            ".tsx"
+        ],
+        "import/resolver": {
+            "node": {
+                "extensions": [
+                    ".js",
+                    ".d.ts",
+                    ".ts",
+                    ".tsx"
+                ]
+            }
+        }
+    },
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        },
+        "ecmaVersion": 2018,
+        "sourceType": "module",
+        "project": "./tsconfig.eslint.json"
+    },
+    "rules": {
+        "no-use-before-define": "off",
+        "@typescript-eslint/no-use-before-define": [
+            "error"
+        ],
+        "react/jsx-filename-extension": [
+            1,
+            {
+                "extensions": [
+                ".ts",
+                ".tsx"
+                ]
+            }
+        ],
+        "import/no-extraneous-dependencies": [
+            "error",
+            {
+                "devDependencies": true
+            }
+        ],
+        "import/prefer-default-export": 0,
+        "@typescript-eslint/no-inferrable-types": 0,
+        "@typescript-eslint/explicit-function-return-type": [
+            "warn",
+            {
+                "allowTypedFunctionExpressions": true,
+                "allowExpressions": true
+            }
+        ],
+        "@typescript-eslint/no-unused-vars": 0,
+        "max-len": [
+            "error",
+            {
+                "code": 110
+            }
+        ],
+        "import/extensions": [
+            "error",
+            "ignorePackages",
+            {
+                "json": "never",
+                "js": "never",
+                "ts": "never",
+                "tsx": "never"
+            }
+        ],
+        "react-hooks/rules-of-hooks": "error",
+        "react-hooks/exhaustive-deps": "warn",
+        "indent": [
+            "error",
+            4
+        ],
+        "react/jsx-indent": [
+            "error",
+            4
+        ],
+        "react/jsx-indent-props": [
+            "error",
+            4
+        ],
+        "no-multiple-empty-lines": [
+            "error",
+            {
+                "max": 2
+            }
+        ],
+        "react/prop-types": 0,
+        "react/require-default-props": 0,
+        "arrow-parens": [
+            "error",
+            "always"
+        ],
+        "operator-linebreak": [
+            "error",
+            "after",
+            {
+                "overrides": {
+                "?": "before",
+                ":": "before"
+                }
+            }
+        ],
+        "no-trailing-spaces": [
+            "error",
+            {
+                "skipBlankLines": true
+            }
+        ],
+        "linebreak-style": 0,
+        "no-plusplus": 0,
+        "no-continue": 0,
+        "arrow-body-style": 0,
+        "no-shadow": 0,
+        "no-underscore-dangle": 0,
+        "no-restricted-exports": 0,
+        "react/function-component-definition": [
+            2,
+            { "namedComponents": "arrow-function", "unnamedComponents": "arrow-function" }
+        ],
+        "react/destructuring-assignment": 0,
+        "react/jsx-props-no-spreading": 0,
+        "function-paren-newline": 0,
+        "class-methods-use-this": 0,
+        "import/no-relative-packages": 0,
+        "func-names": [
+            "error",
+            "never",
+            {
+                "generators": "never"
+            }
+        ]
+    }
+}

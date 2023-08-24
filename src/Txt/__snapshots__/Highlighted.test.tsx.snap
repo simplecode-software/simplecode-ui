@@ -1,0 +1,4402 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`spec/Highlighted renders [EMPTY] 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 01e1268270 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={true}
+    isDecorated={null}
+    text="plain text"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 02a1c14612 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={null}
+    isDecorated={null}
+    text="mention @Somebody Long"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 015e338667 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={null}
+    isDecorated={null}
+    text="mention @Somebody Long Extra"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 021d3d1f85 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={true}
+    isDecorated={null}
+    text="url https://google.com"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 053fee8db1 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={true}
+    isDecorated={null}
+    text="urls https://google.com and https://google.com"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 0180fbbd41 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={null}
+    isDecorated={null}
+    text="mentions @broken e@mai.l"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 025511defb 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={false}
+    isDecorated={null}
+    text="urls https://google.com and https://google.com"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 0228403f49 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 0333387340 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={null}
+    isDecorated={null}
+    text="plain text"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 0a0a3031ce 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={false}
+    isDecorated={null}
+    text="text <a>anchor</a>"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 0aa0d938f 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={null}
+    isDecorated={null}
+    text="anchor <a href="https://google.com">@Mention</a>"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 0ce2e1d9a 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={null}
+    isDecorated={null}
+    text="text <a href="https://google.com">google</a>"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 1eade8898 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={null}
+    isDecorated={null}
+    text="url https://@Mention.com"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 5bef6f1 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={false}
+    isDecorated={null}
+    text="plain text"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 6b1a5c2d 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={null}
+    isDecorated={null}
+    text="url https://google.com"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 6db71d178 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 8f8b64c8 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={null}
+    isDecorated={null}
+    text="Text @Mention"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 12b913ec54 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={false}
+    isDecorated={null}
+    text="mention @Somebody @Else"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 37a7f19c7 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={null}
+    isDecorated={null}
+    text="text <a>anchor</a>"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 99ed5a19b 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={false}
+    isDecorated={null}
+    text="url https://@Mention.com"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 104ec2a1e 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={true}
+    isDecorated={null}
+    text="mentions @broken e@mai.l"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 107e49114 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={true}
+    isDecorated={null}
+    text="Text @Mention"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 199ac9050 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={false}
+    isDecorated={null}
+    text="<a href="https://google.com">google1</a> <a href="https://google.com">google2</a>"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 4086de7f 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={false}
+    isDecorated={null}
+    text="anchor <a href="https://google.com">@Mention</a>"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 8824e717a 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={true}
+    isDecorated={null}
+    text="text <a href="https://google.com">google</a>"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 350119fba 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={true}
+    isDecorated={null}
+    text="<a href="https://google.com">google1</a> <a href="https://google.com">google2</a>"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 637777bca 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={false}
+    isDecorated={null}
+    text="Text @Mention"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders 890288162 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={true}
+    isDecorated={null}
+    text="mention @Somebody @Else"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders ad5b8e22 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={false}
+    isDecorated={null}
+    text="mention @Somebody Long"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders bd56fa227 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={true}
+    isDecorated={null}
+    text="text <a>anchor</a>"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/Highlighted renders ede0c0b61 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <test-mock
+    hasMentions={true}
+    isDecorated={null}
+    text="mention @Somebody Long Extra"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;

@@ -1,0 +1,11 @@
+{
+  "threshold": 2,
+  "output": "./doc/jscpd",
+  "format": "typescript,tsx",
+  "silent": true,
+  "ignore": ["**/__snapshots__/**", "**/__mocks__/**", "**/*.test.ts*"],
+  "reporters": [
+    "html"
+  ],
+  "gitignore": true
+}

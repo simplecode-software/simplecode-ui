@@ -1,0 +1,5384 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`spec/InputZone renders [EMPTY] 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <input
+    css={
+      [
+        null,
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "0 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={null}
+    onChange={[Function]}
+    readOnly={null}
+    type="text"
+    value=""
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 03e1641bc6 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <textarea
+    autoCapitalize="on"
+    autoComplete="on"
+    autoCorrect="on"
+    autoFocus={true}
+    css={
+      [
+        {
+          "width": 100,
+        },
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "5px 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={true}
+    maxLength={50}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    placeholder="test-id"
+    readOnly={true}
+    spellCheck="true"
+    type="password"
+    value="test-id"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 05d680b291 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <input
+    autoCapitalize="on"
+    css={
+      [
+        null,
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "0 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={null}
+    onChange={[Function]}
+    placeholder=""
+    readOnly={null}
+    type="text"
+    value=""
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 06ffff0455 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <input
+    autoCapitalize="on"
+    autoFocus={false}
+    css={
+      [
+        {
+          "position": "absolute",
+        },
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "0 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={false}
+    maxLength={100}
+    onChange={[Function]}
+    placeholder="button-name"
+    readOnly={false}
+    type="text"
+    value="button-name"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 08cfbf8a22 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <input
+    autoFocus={false}
+    css={
+      [
+        {
+          "position": "absolute",
+        },
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "0 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={false}
+    maxLength={100}
+    onChange={[Function]}
+    readOnly={false}
+    type="text"
+    value=""
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 09d73c3c06 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <textarea
+    autoCapitalize="on"
+    autoComplete="on"
+    autoCorrect="on"
+    autoFocus={true}
+    css={
+      [
+        {
+          "width": 100,
+        },
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "5px 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={true}
+    maxLength={50}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    placeholder="button-name"
+    readOnly={true}
+    spellCheck="true"
+    type="password"
+    value="button-name"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 022f1a79d4 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <input
+    autoCapitalize="on"
+    css={
+      [
+        null,
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "0 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={null}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    placeholder="test-id"
+    readOnly={null}
+    type="text"
+    value="test-id"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 0758b3795a 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <input
+    autoCapitalize="on"
+    css={
+      [
+        null,
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "0 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={null}
+    onChange={[Function]}
+    placeholder="Label"
+    readOnly={null}
+    type="text"
+    value="Label"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 01271f62485 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <textarea
+    autoCapitalize="on"
+    autoComplete="on"
+    autoCorrect="on"
+    autoFocus={true}
+    css={
+      [
+        {
+          "width": 100,
+        },
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "5px 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={true}
+    maxLength={50}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    placeholder="test-id"
+    readOnly={true}
+    spellCheck="true"
+    type="password"
+    value="test-id"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 03750d53c0 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <input
+    autoCapitalize="on"
+    autoFocus={false}
+    css={
+      [
+        {
+          "position": "absolute",
+        },
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "0 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={false}
+    maxLength={100}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    placeholder="test-id"
+    readOnly={false}
+    type="text"
+    value="test-id"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 05494f54ee 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <input
+    autoCapitalize="on"
+    autoFocus={false}
+    css={
+      [
+        {
+          "position": "absolute",
+        },
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "0 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={false}
+    maxLength={100}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    placeholder="Label"
+    readOnly={false}
+    type="text"
+    value="Label"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 0960760f53 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <input
+    autoCapitalize="on"
+    autoFocus={false}
+    css={
+      [
+        {
+          "position": "absolute",
+        },
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "0 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={false}
+    maxLength={100}
+    onChange={[Function]}
+    placeholder=""
+    readOnly={false}
+    type="text"
+    value=""
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 0a00e7f70 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <input
+    autoCapitalize="on"
+    css={
+      [
+        null,
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "0 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={null}
+    onChange={[Function]}
+    placeholder="button-name"
+    readOnly={null}
+    type="text"
+    value="button-name"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 0a0a10d56f 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <textarea
+    autoCapitalize="on"
+    autoComplete="on"
+    autoCorrect="on"
+    autoFocus={true}
+    css={
+      [
+        {
+          "width": 100,
+        },
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "5px 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={true}
+    maxLength={50}
+    onChange={[Function]}
+    placeholder="test-id"
+    readOnly={true}
+    spellCheck="true"
+    type="password"
+    value="test-id"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 0b2f20bbb0 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <textarea
+    autoCapitalize="on"
+    autoComplete="on"
+    autoCorrect="on"
+    autoFocus={true}
+    css={
+      [
+        {
+          "width": 100,
+        },
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "5px 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={true}
+    maxLength={50}
+    onChange={[Function]}
+    placeholder=""
+    readOnly={true}
+    spellCheck="true"
+    type="password"
+    value=""
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 0d8ebdabe8 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <textarea
+    autoComplete="on"
+    autoCorrect="on"
+    autoFocus={true}
+    css={
+      [
+        {
+          "width": 100,
+        },
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "5px 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={true}
+    maxLength={50}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    readOnly={true}
+    spellCheck="true"
+    type="password"
+    value=""
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 1ba629f51 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <input
+    css={
+      [
+        null,
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "0 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={null}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    readOnly={null}
+    type="text"
+    value=""
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 2e1e9d6c1 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <input
+    autoCapitalize="on"
+    autoFocus={false}
+    css={
+      [
+        {
+          "position": "absolute",
+        },
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "0 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={false}
+    maxLength={100}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    placeholder=""
+    readOnly={false}
+    type="text"
+    value=""
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 6c6ad7d6b 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <input
+    autoCapitalize="on"
+    css={
+      [
+        null,
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "0 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={null}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    placeholder="Label"
+    readOnly={null}
+    type="text"
+    value="Label"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 6cedb616e 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <textarea
+    autoComplete="on"
+    autoCorrect="on"
+    autoFocus={true}
+    css={
+      [
+        {
+          "width": 100,
+        },
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "5px 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={true}
+    maxLength={50}
+    onChange={[Function]}
+    readOnly={true}
+    spellCheck="true"
+    type="password"
+    value=""
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 8c2c2759f 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <input
+    autoFocus={false}
+    css={
+      [
+        {
+          "position": "absolute",
+        },
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "0 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={false}
+    maxLength={100}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    readOnly={false}
+    type="text"
+    value=""
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 16ea5d324b 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <textarea
+    autoCapitalize="on"
+    autoComplete="on"
+    autoCorrect="on"
+    autoFocus={true}
+    css={
+      [
+        {
+          "width": 100,
+        },
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "5px 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={true}
+    maxLength={50}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    placeholder="Label"
+    readOnly={true}
+    spellCheck="true"
+    type="password"
+    value="Label"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 35d9e8d13 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <textarea
+    autoCapitalize="on"
+    autoComplete="on"
+    autoCorrect="on"
+    autoFocus={true}
+    css={
+      [
+        {
+          "width": 100,
+        },
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "5px 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={true}
+    maxLength={50}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    placeholder=""
+    readOnly={true}
+    spellCheck="true"
+    type="password"
+    value=""
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 447db8734 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <input
+    autoCapitalize="on"
+    autoFocus={false}
+    css={
+      [
+        {
+          "position": "absolute",
+        },
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "0 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={false}
+    maxLength={100}
+    onChange={[Function]}
+    placeholder="Label"
+    readOnly={false}
+    type="text"
+    value="Label"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 486fba2c3 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <input
+    autoCapitalize="on"
+    css={
+      [
+        null,
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "0 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={null}
+    onChange={[Function]}
+    placeholder="test-id"
+    readOnly={null}
+    type="text"
+    value="test-id"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 519a6363d 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <input
+    css={
+      [
+        null,
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "0 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={null}
+    onChange={[Function]}
+    readOnly={null}
+    type="text"
+    value=""
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 832b445ec 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <input
+    autoCapitalize="on"
+    css={
+      [
+        null,
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "0 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={null}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    placeholder=""
+    readOnly={null}
+    type="text"
+    value=""
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 24517f6b3 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <textarea
+    autoCapitalize="on"
+    autoComplete="on"
+    autoCorrect="on"
+    autoFocus={true}
+    css={
+      [
+        {
+          "width": 100,
+        },
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "5px 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={true}
+    maxLength={50}
+    onChange={[Function]}
+    placeholder="Label"
+    readOnly={true}
+    spellCheck="true"
+    type="password"
+    value="Label"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 132195ef06 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <input
+    autoCapitalize="on"
+    autoFocus={false}
+    css={
+      [
+        {
+          "position": "absolute",
+        },
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "0 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={false}
+    maxLength={100}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    placeholder="button-name"
+    readOnly={false}
+    type="text"
+    value="button-name"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders 77261105b 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <input
+    autoCapitalize="on"
+    css={
+      [
+        null,
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "0 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={null}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    placeholder="button-name"
+    readOnly={null}
+    type="text"
+    value="button-name"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders e92736146 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <textarea
+    autoCapitalize="on"
+    autoComplete="on"
+    autoCorrect="on"
+    autoFocus={true}
+    css={
+      [
+        {
+          "width": 100,
+        },
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "5px 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={true}
+    maxLength={50}
+    onChange={[Function]}
+    placeholder="button-name"
+    readOnly={true}
+    spellCheck="true"
+    type="password"
+    value="button-name"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;
+
+exports[`spec/InputZone renders eec5e8e7b 1`] = `
+<div
+  css={
+    [
+      [
+        {
+          "backgroundColor": "#c0a793",
+          "borderColor": "#3918df",
+        },
+        null,
+        null,
+        null,
+      ],
+      {
+        "alignItems": "stretch",
+        "cursor": undefined,
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "opacity": 1,
+        "pointerEvents": "auto",
+        "position": "relative",
+        "userSelect": "auto",
+      },
+      {
+        "bottom": 0,
+        "left": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+      },
+    ]
+  }
+  disabled={null}
+  href={null}
+>
+  <input
+    autoCapitalize="on"
+    autoFocus={false}
+    css={
+      [
+        {
+          "position": "absolute",
+        },
+        {
+          "&:hover,&:focus,&:active": {
+            "backgroundColor": "transparent",
+            "border": "none",
+            "outline": "none",
+          },
+          "backgroundColor": "transparent",
+          "border": "none",
+          "flex": 1,
+          "minWidth": 42,
+          "outline": "none",
+          "padding": "0 10px",
+        },
+        {
+          "outline": "none",
+        },
+      ]
+    }
+    custom={null}
+    disabled={false}
+    maxLength={100}
+    onChange={[Function]}
+    placeholder="test-id"
+    readOnly={false}
+    type="text"
+    value="test-id"
+  />
+  <div
+    css={
+      [
+        [
+          {
+            "backgroundColor": "#c0a793",
+            "borderColor": "#3918df",
+          },
+          null,
+          null,
+          null,
+        ],
+        {
+          "alignItems": "stretch",
+          "cursor": undefined,
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "justifyContent": "flex-start",
+          "opacity": 1,
+          "pointerEvents": "auto",
+          "position": "relative",
+          "userSelect": "auto",
+        },
+        [
+          {
+            "bottom": 0,
+            "height": undefined,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": undefined,
+          },
+          {
+            "pointerEvents": "none",
+            "position": "fixed",
+            "zIndex": 1000,
+          },
+        ],
+      ]
+    }
+    disabled={null}
+    href={null}
+  >
+    <div
+      css={
+        [
+          [
+            {
+              "backgroundColor": "#c0a793",
+              "borderColor": "#3918df",
+            },
+            null,
+            null,
+            null,
+          ],
+          {
+            "alignItems": "flex-end",
+            "cursor": undefined,
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "justifyContent": "flex-start",
+            "opacity": 1,
+            "pointerEvents": "none",
+            "position": "relative",
+            "userSelect": "auto",
+          },
+          [
+            {
+              "bottom": 0,
+              "left": 0,
+              "overflow": "hidden",
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            {
+              "bottom": 100,
+              "zIndex": 100,
+            },
+          ],
+        ]
+      }
+      disabled={null}
+      href={null}
+    />
+  </div>
+</div>
+`;

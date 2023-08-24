@@ -1,0 +1,1 @@
+export { LoadingIconWeb } from './LoadingIconWeb';

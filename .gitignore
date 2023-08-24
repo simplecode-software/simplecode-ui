@@ -1,0 +1,36 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+# /dist
+
+# misc
+.DS_Store
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# typescript coverage report, dependency graph images, copy-paste report
+/reports
+/storybook/storybook-static
+/doc/dep-graphs
+/doc/storybook
+/doc/view-tree
+/doc/jest
+/doc/jscpd
+/doc/ts-coverage
+/doc/bundle-size
+/doc/web-build
+/doc/*.zip
+/web-build
+/e2e/auth.json
+/e2e/__diff__
+/e2e/*.png

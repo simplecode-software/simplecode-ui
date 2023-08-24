@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Get Margins computes double margins 1`] = `
+{
+  "marginBottom": 10,
+  "marginLeft": 20,
+  "marginRight": 20,
+  "marginTop": 10,
+}
+`;
+
+exports[`Get Margins computes full margins 1`] = `
+{
+  "marginBottom": 30,
+  "marginLeft": 40,
+  "marginRight": 20,
+  "marginTop": 10,
+}
+`;
+
+exports[`Get Margins computes number margin 1`] = `
+{
+  "margin": 40,
+}
+`;
+
+exports[`Get Margins computes single margins 1`] = `
+{
+  "marginBottom": 10,
+  "marginLeft": 10,
+  "marginRight": 10,
+  "marginTop": 10,
+}
+`;
+
+exports[`Get Margins computes tripple margins 1`] = `
+{
+  "marginBottom": 30,
+  "marginLeft": 20,
+  "marginRight": 20,
+  "marginTop": 10,
+}
+`;
+
+exports[`Get Margins returns null if empty string 1`] = `null`;
+
+exports[`Get Margins returns null if no margin 1`] = `null`;
+
+exports[`Get Margins trims extra margins 1`] = `
+{
+  "marginBottom": 30,
+  "marginLeft": 40,
+  "marginRight": 20,
+  "marginTop": 10,
+}
+`;

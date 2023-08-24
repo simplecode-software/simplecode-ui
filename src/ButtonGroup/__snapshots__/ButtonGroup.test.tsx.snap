@@ -1,0 +1,4104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`spec/ButtonGroup renders [EMPTY] 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="center"
+    alignText={null}
+    behavior={null}
+    direction="row"
+    events={null}
+    flex={null}
+    href={null}
+    isActive={null}
+    isHidden={null}
+    justify="space-between"
+    label={null}
+    labelActive={null}
+    margin={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={null}
+    padding={null}
+    select={null}
+    state={null}
+    style={null}
+    testId={null}
+  >
+    <test-mock
+      countBatch={null}
+      countInitial={null}
+      interval={null}
+      items={[]}
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 02d4975e52 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="flex-start"
+    alignText="auto"
+    behavior="radio"
+    direction="row"
+    events="box-none"
+    flex={-1}
+    href=""
+    isActive={true}
+    isHidden={true}
+    justify="flex-start"
+    label="test-id"
+    labelActive="test-id"
+    margin={0}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={0}
+    padding={0}
+    select={
+      {
+        "buttons": [],
+      }
+    }
+    state="active"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId="test-id"
+  >
+    <test-mock
+      countBatch={1}
+      countInitial={0}
+      interval={25}
+      items={[]}
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 03ca65587d 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="baseline"
+    alignText="justify"
+    behavior="radio"
+    direction="row"
+    events={null}
+    flex={null}
+    href="https://google.com"
+    isActive={false}
+    isHidden={false}
+    justify="space-around"
+    label={null}
+    labelActive={null}
+    margin="1 2 3 4"
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={0}
+    padding="1 2 3 4"
+    select={
+      {
+        "buttons": [],
+      }
+    }
+    state="hover"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId={null}
+  >
+    <test-mock
+      countBatch={2}
+      countInitial={0}
+      interval={50}
+      items={[]}
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 04eb5ab435 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="stretch"
+    alignText="center"
+    behavior="button"
+    direction="row"
+    events={null}
+    flex={null}
+    href=""
+    isActive={true}
+    isHidden={true}
+    justify="center"
+    label={null}
+    labelActive={null}
+    margin="5 15"
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={0.5}
+    padding="5 15"
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+        ],
+      }
+    }
+    state="active"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId={null}
+  >
+    <test-mock
+      countBatch={1}
+      countInitial={1}
+      interval={25}
+      items={
+        [
+          {
+            "border": "lg.top",
+            "colors": null,
+            "flex": null,
+            "flexText": null,
+            "font": null,
+            "hasMentions": null,
+            "icons": [
+              {
+                "Component": [Function],
+                "name": "checkbox",
+              },
+              {
+                "Component": [Function],
+                "name": "add",
+              },
+            ],
+            "isActive": false,
+            "isDecorated": null,
+            "isDisabled": true,
+            "label": "Button 1",
+            "lines": null,
+            "name": "btn-1",
+            "onPress": null,
+            "shadow": "sm",
+            "shadowText": "sm",
+            "shape": "xlg.top",
+            "size": "auto",
+            "sizeText": "auto",
+            "style": [
+              {
+                "marginLeft": 0,
+              },
+              undefined,
+            ],
+          },
+        ]
+      }
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 05a1b59faf 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="baseline"
+    alignText="justify"
+    behavior="radio"
+    direction="column-reverse"
+    events="auto"
+    flex={2}
+    href="https://google.com"
+    isActive={false}
+    isHidden={false}
+    justify="flex-start"
+    label=""
+    labelActive=""
+    margin={0}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={0}
+    padding={0}
+    select={
+      {
+        "buttons": [],
+      }
+    }
+    state="hover"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId=""
+  >
+    <test-mock
+      countBatch={2}
+      countInitial={0}
+      interval={50}
+      items={[]}
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 05c0a805e6 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="center"
+    alignText="right"
+    behavior="checkbox"
+    direction="column"
+    events="box-only"
+    flex={1}
+    href={null}
+    isActive={null}
+    isHidden={null}
+    justify="center"
+    label="Label"
+    labelActive="Label"
+    margin="5 15"
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={1}
+    padding="5 15"
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+          {
+            "label": "Button 2",
+            "name": "btn-2",
+          },
+        ],
+      }
+    }
+    state={null}
+    style={null}
+    testId="Label"
+  >
+    <test-mock
+      countBatch={null}
+      countInitial={2}
+      interval={null}
+      items={
+        [
+          {
+            "border": "xlg.all",
+            "colors": {
+              "bg": "bg.primaryalt",
+              "bgActive": "bg.primaryaltminus",
+              "bgHover": "bg.primaryaltplus",
+              "border": "transparent",
+              "borderActive": "transparent",
+              "borderHover": "transparent",
+              "text": "text.primary",
+              "textActive": "text.primaryminus",
+              "textHover": "text.primaryplus",
+            },
+            "flex": null,
+            "flexText": 1,
+            "font": "bold",
+            "hasMentions": null,
+            "icons": [
+              null,
+              {
+                "Component": [Function],
+                "name": "add",
+              },
+            ],
+            "isActive": false,
+            "isDecorated": null,
+            "isDisabled": null,
+            "label": "Button 1",
+            "lines": 1,
+            "name": "btn-1",
+            "onPress": [Function],
+            "shadow": "md",
+            "shadowText": "md",
+            "shape": "rounded.top",
+            "size": "xsm",
+            "sizeText": "xsm",
+            "style": undefined,
+          },
+          {
+            "border": "xlg.all",
+            "colors": {
+              "bg": "bg.primaryalt",
+              "bgActive": "bg.primaryaltminus",
+              "bgHover": "bg.primaryaltplus",
+              "border": "transparent",
+              "borderActive": "transparent",
+              "borderHover": "transparent",
+              "text": "text.primary",
+              "textActive": "text.primaryminus",
+              "textHover": "text.primaryplus",
+            },
+            "flex": null,
+            "flexText": 1,
+            "font": "bold",
+            "hasMentions": null,
+            "icons": [
+              null,
+              {
+                "Component": [Function],
+                "name": "add",
+              },
+            ],
+            "isActive": false,
+            "isDecorated": null,
+            "isDisabled": null,
+            "label": "Button 2",
+            "lines": 1,
+            "name": "btn-2",
+            "onPress": [Function],
+            "shadow": "md",
+            "shadowText": "md",
+            "shape": "rounded.bottom",
+            "size": "xsm",
+            "sizeText": "xsm",
+            "style": undefined,
+          },
+        ]
+      }
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 06b5986588 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="center"
+    alignText={null}
+    behavior="button"
+    direction="row"
+    events={null}
+    flex={null}
+    href={null}
+    isActive={null}
+    isHidden={null}
+    justify="flex-end"
+    label={null}
+    labelActive={null}
+    margin={10}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={0.5}
+    padding={10}
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+        ],
+      }
+    }
+    state={null}
+    style={null}
+    testId={null}
+  >
+    <test-mock
+      countBatch={null}
+      countInitial={1}
+      interval={null}
+      items={
+        [
+          {
+            "border": "xlg.top",
+            "colors": null,
+            "flex": null,
+            "flexText": null,
+            "font": null,
+            "hasMentions": null,
+            "icons": [
+              {
+                "Component": [Function],
+                "name": "checkbox",
+              },
+              {
+                "Component": [Function],
+                "name": "add",
+              },
+            ],
+            "isActive": false,
+            "isDecorated": null,
+            "isDisabled": null,
+            "label": "Button 1",
+            "lines": null,
+            "name": "btn-1",
+            "onPress": null,
+            "shadow": "sm",
+            "shadowText": "sm",
+            "shape": "sm.left",
+            "size": "xsm",
+            "sizeText": "xsm",
+            "style": undefined,
+          },
+        ]
+      }
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 08f637fbae 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="baseline"
+    alignText="justify"
+    behavior="checkbox"
+    direction="row"
+    events="box-none"
+    flex={-1}
+    href="https://google.com"
+    isActive={false}
+    isHidden={false}
+    justify="space-between"
+    label="test-id"
+    labelActive="test-id"
+    margin="5 15 3"
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={1}
+    padding="5 15 3"
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+          {
+            "label": "Button 2",
+            "name": "btn-2",
+          },
+        ],
+      }
+    }
+    state="hover"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId="test-id"
+  >
+    <test-mock
+      countBatch={2}
+      countInitial={2}
+      interval={50}
+      items={
+        [
+          {
+            "border": "lg.bottom",
+            "colors": "secondary",
+            "flex": -1,
+            "flexText": -1,
+            "font": "regular",
+            "hasMentions": null,
+            "icons": [
+              null,
+              {
+                "Component": [Function],
+                "name": "add",
+              },
+            ],
+            "isActive": false,
+            "isDecorated": null,
+            "isDisabled": false,
+            "label": "Button 1",
+            "lines": -1,
+            "name": "btn-1",
+            "onPress": [Function],
+            "shadow": "none",
+            "shadowText": "md",
+            "shape": "xlg.left",
+            "size": "xxsm",
+            "sizeText": "xxsm",
+            "style": [
+              {
+                "marginLeft": 0,
+              },
+              undefined,
+            ],
+          },
+          {
+            "border": "lg.bottom",
+            "colors": "secondary",
+            "flex": -1,
+            "flexText": -1,
+            "font": "regular",
+            "hasMentions": null,
+            "icons": [
+              null,
+              {
+                "Component": [Function],
+                "name": "add",
+              },
+            ],
+            "isActive": false,
+            "isDecorated": null,
+            "isDisabled": false,
+            "label": "Button 2",
+            "lines": -1,
+            "name": "btn-2",
+            "onPress": [Function],
+            "shadow": "none",
+            "shadowText": "md",
+            "shape": "xlg.right",
+            "size": "xxsm",
+            "sizeText": "xxsm",
+            "style": [
+              {
+                "marginLeft": 20,
+              },
+              undefined,
+            ],
+          },
+        ]
+      }
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 024fb133e2 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="flex-end"
+    alignText="left"
+    behavior="button"
+    direction="column-reverse"
+    events="auto"
+    flex={2}
+    href="https://google.com"
+    isActive={false}
+    isHidden={false}
+    justify="space-between"
+    label=""
+    labelActive=""
+    margin={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={0.5}
+    padding={null}
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+        ],
+      }
+    }
+    state="hover"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId=""
+  >
+    <test-mock
+      countBatch={2}
+      countInitial={1}
+      interval={50}
+      items={
+        [
+          {
+            "border": "md",
+            "colors": {
+              "bg": "transparent",
+              "bgActive": "transparent",
+              "bgHover": "transparent",
+              "border": "bg.success",
+              "borderActive": "bg.successminus",
+              "borderHover": "bg.successplus",
+              "text": "text.success",
+              "textActive": "text.successminus",
+              "textHover": "text.successplus",
+            },
+            "flex": null,
+            "flexText": 2,
+            "font": "mono",
+            "hasMentions": null,
+            "icons": [
+              {
+                "Component": [Function],
+                "name": "checkbox",
+              },
+              {
+                "Component": [Function],
+                "name": "add",
+              },
+            ],
+            "isActive": false,
+            "isDecorated": null,
+            "isDisabled": false,
+            "label": "Button 1",
+            "lines": 2,
+            "name": "btn-1",
+            "onPress": null,
+            "shadow": "lg",
+            "shadowText": "sm",
+            "shape": "lg",
+            "size": "md",
+            "sizeText": "md",
+            "style": [
+              {
+                "marginTop": 0,
+              },
+              undefined,
+            ],
+          },
+        ]
+      }
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 027bd6c681 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="baseline"
+    alignText="justify"
+    behavior="checkbox"
+    direction="column"
+    events="box-only"
+    flex={1}
+    href="https://google.com"
+    isActive={false}
+    isHidden={false}
+    justify="flex-end"
+    label="Label"
+    labelActive="Label"
+    margin={10}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={1}
+    padding={10}
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+          {
+            "label": "Button 2",
+            "name": "btn-2",
+          },
+        ],
+      }
+    }
+    state="hover"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId="Label"
+  >
+    <test-mock
+      countBatch={2}
+      countInitial={2}
+      interval={50}
+      items={
+        [
+          {
+            "border": "sm.bottom",
+            "colors": {
+              "bg": "bg.primaryalt",
+              "bgActive": "bg.primaryaltminus",
+              "bgHover": "bg.primaryaltplus",
+              "border": "transparent",
+              "borderActive": "transparent",
+              "borderHover": "transparent",
+              "text": "text.primary",
+              "textActive": "text.primaryminus",
+              "textHover": "text.primaryplus",
+            },
+            "flex": null,
+            "flexText": 1,
+            "font": "bold",
+            "hasMentions": null,
+            "icons": [
+              null,
+              {
+                "Component": [Function],
+                "name": "add",
+              },
+            ],
+            "isActive": false,
+            "isDecorated": null,
+            "isDisabled": false,
+            "label": "Button 1",
+            "lines": 1,
+            "name": "btn-1",
+            "onPress": [Function],
+            "shadow": "md",
+            "shadowText": "md",
+            "shape": "md.top",
+            "size": "md",
+            "sizeText": "md",
+            "style": [
+              {
+                "marginTop": 0,
+              },
+              undefined,
+            ],
+          },
+          {
+            "border": "sm.bottom",
+            "colors": {
+              "bg": "bg.primaryalt",
+              "bgActive": "bg.primaryaltminus",
+              "bgHover": "bg.primaryaltplus",
+              "border": "transparent",
+              "borderActive": "transparent",
+              "borderHover": "transparent",
+              "text": "text.primary",
+              "textActive": "text.primaryminus",
+              "textHover": "text.primaryplus",
+            },
+            "flex": null,
+            "flexText": 1,
+            "font": "bold",
+            "hasMentions": null,
+            "icons": [
+              null,
+              {
+                "Component": [Function],
+                "name": "add",
+              },
+            ],
+            "isActive": false,
+            "isDecorated": null,
+            "isDisabled": false,
+            "label": "Button 2",
+            "lines": 1,
+            "name": "btn-2",
+            "onPress": [Function],
+            "shadow": "md",
+            "shadowText": "md",
+            "shape": "md.bottom",
+            "size": "md",
+            "sizeText": "md",
+            "style": [
+              {
+                "marginTop": 20,
+              },
+              undefined,
+            ],
+          },
+        ]
+      }
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 049be542da 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="center"
+    alignText={null}
+    behavior="button"
+    direction="row"
+    events="box-none"
+    flex={-1}
+    href={null}
+    isActive={null}
+    isHidden={null}
+    justify="space-evenly"
+    label="test-id"
+    labelActive="test-id"
+    margin="-1 -2 -3 -4"
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={0.5}
+    padding="-1 -2 -3 -4"
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+        ],
+      }
+    }
+    state={null}
+    style={null}
+    testId="test-id"
+  >
+    <test-mock
+      countBatch={null}
+      countInitial={1}
+      interval={null}
+      items={
+        [
+          {
+            "border": "xlg.left",
+            "colors": "secondary",
+            "flex": -1,
+            "flexText": -1,
+            "font": "regular",
+            "hasMentions": null,
+            "icons": [
+              {
+                "Component": [Function],
+                "name": "checkbox",
+              },
+              {
+                "Component": [Function],
+                "name": "add",
+              },
+            ],
+            "isActive": false,
+            "isDecorated": null,
+            "isDisabled": null,
+            "label": "Button 1",
+            "lines": -1,
+            "name": "btn-1",
+            "onPress": null,
+            "shadow": "none",
+            "shadowText": "sm",
+            "shape": "rounded.left",
+            "size": "lg",
+            "sizeText": "lg",
+            "style": undefined,
+          },
+        ]
+      }
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 096dcffa01 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="flex-end"
+    alignText="left"
+    behavior="button"
+    direction="row-reverse"
+    events="none"
+    flex={0}
+    href="https://google.com"
+    isActive={false}
+    isHidden={false}
+    justify="flex-end"
+    label="button-name"
+    labelActive="button-name"
+    margin={10}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={0.5}
+    padding={10}
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+        ],
+      }
+    }
+    state="hover"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId="button-name"
+  >
+    <test-mock
+      countBatch={2}
+      countInitial={1}
+      interval={50}
+      items={
+        [
+          {
+            "border": "xlg",
+            "colors": "accenttext",
+            "flex": 0,
+            "flexText": 0,
+            "font": "semi",
+            "hasMentions": null,
+            "icons": [
+              {
+                "Component": [Function],
+                "name": "checkbox",
+              },
+              {
+                "Component": [Function],
+                "name": "add",
+              },
+            ],
+            "isActive": false,
+            "isDecorated": null,
+            "isDisabled": false,
+            "label": "Button 1",
+            "lines": 0,
+            "name": "btn-1",
+            "onPress": null,
+            "shadow": "sm",
+            "shadowText": "sm",
+            "shape": "rounded",
+            "size": "xxsm",
+            "sizeText": "xxsm",
+            "style": [
+              {
+                "marginLeft": 0,
+              },
+              undefined,
+            ],
+          },
+        ]
+      }
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 04930ef43a 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="flex-end"
+    alignText="left"
+    behavior="button"
+    direction="row"
+    events="box-none"
+    flex={-1}
+    href="https://google.com"
+    isActive={false}
+    isHidden={false}
+    justify="space-around"
+    label="test-id"
+    labelActive="test-id"
+    margin="1 2 3 4"
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={0.5}
+    padding="1 2 3 4"
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+        ],
+      }
+    }
+    state="hover"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId="test-id"
+  >
+    <test-mock
+      countBatch={2}
+      countInitial={1}
+      interval={50}
+      items={
+        [
+          {
+            "border": null,
+            "colors": "secondary",
+            "flex": -1,
+            "flexText": -1,
+            "font": "regular",
+            "hasMentions": null,
+            "icons": [
+              {
+                "Component": [Function],
+                "name": "checkbox",
+              },
+              {
+                "Component": [Function],
+                "name": "add",
+              },
+            ],
+            "isActive": false,
+            "isDecorated": null,
+            "isDisabled": false,
+            "label": "Button 1",
+            "lines": -1,
+            "name": "btn-1",
+            "onPress": null,
+            "shadow": "none",
+            "shadowText": "sm",
+            "shape": "sm",
+            "size": "xxlg",
+            "sizeText": "xxlg",
+            "style": [
+              {
+                "marginLeft": 0,
+              },
+              undefined,
+            ],
+          },
+        ]
+      }
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 05512bd46c 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="stretch"
+    alignText="center"
+    behavior="button"
+    direction="row-reverse"
+    events="none"
+    flex={0}
+    href=""
+    isActive={true}
+    isHidden={true}
+    justify="flex-start"
+    label="button-name"
+    labelActive="button-name"
+    margin={0}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={0.5}
+    padding={0}
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+        ],
+      }
+    }
+    state="active"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId="button-name"
+  >
+    <test-mock
+      countBatch={1}
+      countInitial={1}
+      interval={25}
+      items={
+        [
+          {
+            "border": "sm.top",
+            "colors": "accenttext",
+            "flex": 0,
+            "flexText": 0,
+            "font": "semi",
+            "hasMentions": null,
+            "icons": [
+              {
+                "Component": [Function],
+                "name": "checkbox",
+              },
+              {
+                "Component": [Function],
+                "name": "add",
+              },
+            ],
+            "isActive": false,
+            "isDecorated": null,
+            "isDisabled": true,
+            "label": "Button 1",
+            "lines": 0,
+            "name": "btn-1",
+            "onPress": null,
+            "shadow": "sm",
+            "shadowText": "sm",
+            "shape": "md.top",
+            "size": "sm",
+            "sizeText": "sm",
+            "style": [
+              {
+                "marginLeft": 0,
+              },
+              undefined,
+            ],
+          },
+        ]
+      }
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 091427eb89 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="stretch"
+    alignText={null}
+    behavior={null}
+    direction="column-reverse"
+    events="auto"
+    flex={2}
+    href={null}
+    isActive={null}
+    isHidden={null}
+    justify="center"
+    label=""
+    labelActive=""
+    margin="5 15"
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={null}
+    padding="5 15"
+    select={null}
+    state={null}
+    style={null}
+    testId=""
+  >
+    <test-mock
+      countBatch={null}
+      countInitial={null}
+      interval={null}
+      items={[]}
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 0110387a7f 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="center"
+    alignText={null}
+    behavior={null}
+    direction="row-reverse"
+    events="none"
+    flex={0}
+    href={null}
+    isActive={null}
+    isHidden={null}
+    justify="space-around"
+    label="button-name"
+    labelActive="button-name"
+    margin="1 2 3 4"
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={null}
+    padding="1 2 3 4"
+    select={null}
+    state={null}
+    style={null}
+    testId="button-name"
+  >
+    <test-mock
+      countBatch={null}
+      countInitial={null}
+      interval={null}
+      items={[]}
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 0105255113b 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="flex-start"
+    alignText="auto"
+    behavior="checkbox"
+    direction="row-reverse"
+    events="none"
+    flex={0}
+    href=""
+    isActive={true}
+    isHidden={true}
+    justify="space-between"
+    label="button-name"
+    labelActive="button-name"
+    margin={null}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={1}
+    padding={null}
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+          {
+            "label": "Button 2",
+            "name": "btn-2",
+          },
+        ],
+      }
+    }
+    state="active"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId="button-name"
+  >
+    <test-mock
+      countBatch={1}
+      countInitial={2}
+      interval={25}
+      items={
+        [
+          {
+            "border": "xlg.right",
+            "colors": "accenttext",
+            "flex": 0,
+            "flexText": 0,
+            "font": "semi",
+            "hasMentions": null,
+            "icons": [
+              null,
+              {
+                "Component": [Function],
+                "name": "add",
+              },
+            ],
+            "isActive": false,
+            "isDecorated": null,
+            "isDisabled": true,
+            "label": "Button 1",
+            "lines": 0,
+            "name": "btn-1",
+            "onPress": [Function],
+            "shadow": "sm",
+            "shadowText": "md",
+            "shape": "rounded.left",
+            "size": "xlg",
+            "sizeText": "xlg",
+            "style": [
+              {
+                "marginLeft": 0,
+              },
+              undefined,
+            ],
+          },
+          {
+            "border": "xlg.right",
+            "colors": "accenttext",
+            "flex": 0,
+            "flexText": 0,
+            "font": "semi",
+            "hasMentions": null,
+            "icons": [
+              null,
+              {
+                "Component": [Function],
+                "name": "add",
+              },
+            ],
+            "isActive": false,
+            "isDecorated": null,
+            "isDisabled": true,
+            "label": "Button 2",
+            "lines": 0,
+            "name": "btn-2",
+            "onPress": [Function],
+            "shadow": "sm",
+            "shadowText": "md",
+            "shape": "rounded.right",
+            "size": "xlg",
+            "sizeText": "xlg",
+            "style": [
+              {
+                "marginLeft": 10,
+              },
+              undefined,
+            ],
+          },
+        ]
+      }
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 0cfca8120 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="stretch"
+    alignText="center"
+    behavior={null}
+    direction="column"
+    events="box-only"
+    flex={1}
+    href=""
+    isActive={true}
+    isHidden={true}
+    justify="space-between"
+    label="Label"
+    labelActive="Label"
+    margin={null}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={null}
+    padding={null}
+    select={null}
+    state="active"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId="Label"
+  >
+    <test-mock
+      countBatch={1}
+      countInitial={null}
+      interval={25}
+      items={[]}
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 0d15f3acb1 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="baseline"
+    alignText="justify"
+    behavior="radio"
+    direction="row-reverse"
+    events="none"
+    flex={0}
+    href="https://google.com"
+    isActive={false}
+    isHidden={false}
+    justify="center"
+    label="button-name"
+    labelActive="button-name"
+    margin="5 15"
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={0}
+    padding="5 15"
+    select={
+      {
+        "buttons": [],
+      }
+    }
+    state="hover"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId="button-name"
+  >
+    <test-mock
+      countBatch={2}
+      countInitial={0}
+      interval={50}
+      items={[]}
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 0dc4647eb 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="flex-end"
+    alignText="left"
+    behavior={null}
+    direction="column"
+    events="box-only"
+    flex={1}
+    href="https://google.com"
+    isActive={false}
+    isHidden={false}
+    justify="flex-start"
+    label="Label"
+    labelActive="Label"
+    margin={0}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={null}
+    padding={0}
+    select={null}
+    state="hover"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId="Label"
+  >
+    <test-mock
+      countBatch={2}
+      countInitial={null}
+      interval={50}
+      items={[]}
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 0df2f2f902 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="stretch"
+    alignText="center"
+    behavior={null}
+    direction="column-reverse"
+    events="auto"
+    flex={2}
+    href=""
+    isActive={true}
+    isHidden={true}
+    justify="space-between"
+    label=""
+    labelActive=""
+    margin="5 15 3"
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={null}
+    padding="5 15 3"
+    select={null}
+    state="active"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId=""
+  >
+    <test-mock
+      countBatch={1}
+      countInitial={null}
+      interval={25}
+      items={[]}
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 0f1b8041c4 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="flex-start"
+    alignText="auto"
+    behavior="radio"
+    direction="row"
+    events={null}
+    flex={null}
+    href=""
+    isActive={true}
+    isHidden={true}
+    justify="space-between"
+    label={null}
+    labelActive={null}
+    margin="5 15 3"
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={0}
+    padding="5 15 3"
+    select={
+      {
+        "buttons": [],
+      }
+    }
+    state="active"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId={null}
+  >
+    <test-mock
+      countBatch={1}
+      countInitial={0}
+      interval={25}
+      items={[]}
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 3de28c183 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="flex-start"
+    alignText="auto"
+    behavior="checkbox"
+    direction="column-reverse"
+    events="auto"
+    flex={2}
+    href=""
+    isActive={true}
+    isHidden={true}
+    justify="space-around"
+    label=""
+    labelActive=""
+    margin="1 2 3 4"
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={1}
+    padding="1 2 3 4"
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+          {
+            "label": "Button 2",
+            "name": "btn-2",
+          },
+        ],
+      }
+    }
+    state="active"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId=""
+  >
+    <test-mock
+      countBatch={1}
+      countInitial={2}
+      interval={25}
+      items={
+        [
+          {
+            "border": "md.right",
+            "colors": {
+              "bg": "transparent",
+              "bgActive": "transparent",
+              "bgHover": "transparent",
+              "border": "bg.success",
+              "borderActive": "bg.successminus",
+              "borderHover": "bg.successplus",
+              "text": "text.success",
+              "textActive": "text.successminus",
+              "textHover": "text.successplus",
+            },
+            "flex": null,
+            "flexText": 2,
+            "font": "mono",
+            "hasMentions": null,
+            "icons": [
+              null,
+              {
+                "Component": [Function],
+                "name": "add",
+              },
+            ],
+            "isActive": false,
+            "isDecorated": null,
+            "isDisabled": true,
+            "label": "Button 1",
+            "lines": 2,
+            "name": "btn-1",
+            "onPress": [Function],
+            "shadow": "lg",
+            "shadowText": "md",
+            "shape": "lg.top",
+            "size": "auto",
+            "sizeText": "auto",
+            "style": [
+              {
+                "marginTop": 0,
+              },
+              undefined,
+            ],
+          },
+          {
+            "border": "md.right",
+            "colors": {
+              "bg": "transparent",
+              "bgActive": "transparent",
+              "bgHover": "transparent",
+              "border": "bg.success",
+              "borderActive": "bg.successminus",
+              "borderHover": "bg.successplus",
+              "text": "text.success",
+              "textActive": "text.successminus",
+              "textHover": "text.successplus",
+            },
+            "flex": null,
+            "flexText": 2,
+            "font": "mono",
+            "hasMentions": null,
+            "icons": [
+              null,
+              {
+                "Component": [Function],
+                "name": "add",
+              },
+            ],
+            "isActive": false,
+            "isDecorated": null,
+            "isDisabled": true,
+            "label": "Button 2",
+            "lines": 2,
+            "name": "btn-2",
+            "onPress": [Function],
+            "shadow": "lg",
+            "shadowText": "md",
+            "shape": "lg.bottom",
+            "size": "auto",
+            "sizeText": "auto",
+            "style": [
+              {
+                "marginTop": 10,
+              },
+              undefined,
+            ],
+          },
+        ]
+      }
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 4ad1ad7f0 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="center"
+    alignText="right"
+    behavior="checkbox"
+    direction="row-reverse"
+    events="none"
+    flex={0}
+    href={null}
+    isActive={null}
+    isHidden={null}
+    justify="space-evenly"
+    label="button-name"
+    labelActive="button-name"
+    margin="-1 -2 -3 -4"
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={1}
+    padding="-1 -2 -3 -4"
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+          {
+            "label": "Button 2",
+            "name": "btn-2",
+          },
+        ],
+      }
+    }
+    state={null}
+    style={null}
+    testId="button-name"
+  >
+    <test-mock
+      countBatch={null}
+      countInitial={2}
+      interval={null}
+      items={
+        [
+          {
+            "border": "none",
+            "colors": "accenttext",
+            "flex": 0,
+            "flexText": 0,
+            "font": "semi",
+            "hasMentions": null,
+            "icons": [
+              null,
+              {
+                "Component": [Function],
+                "name": "add",
+              },
+            ],
+            "isActive": false,
+            "isDecorated": null,
+            "isDisabled": null,
+            "label": "Button 1",
+            "lines": 0,
+            "name": "btn-1",
+            "onPress": [Function],
+            "shadow": "sm",
+            "shadowText": "md",
+            "shape": "sm.left",
+            "size": null,
+            "sizeText": null,
+            "style": undefined,
+          },
+          {
+            "border": "none",
+            "colors": "accenttext",
+            "flex": 0,
+            "flexText": 0,
+            "font": "semi",
+            "hasMentions": null,
+            "icons": [
+              null,
+              {
+                "Component": [Function],
+                "name": "add",
+              },
+            ],
+            "isActive": false,
+            "isDecorated": null,
+            "isDisabled": null,
+            "label": "Button 2",
+            "lines": 0,
+            "name": "btn-2",
+            "onPress": [Function],
+            "shadow": "sm",
+            "shadowText": "md",
+            "shape": "sm.right",
+            "size": null,
+            "sizeText": null,
+            "style": undefined,
+          },
+        ]
+      }
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 5ca8ab817 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="stretch"
+    alignText="center"
+    behavior={null}
+    direction="row"
+    events="box-none"
+    flex={-1}
+    href=""
+    isActive={true}
+    isHidden={true}
+    justify="flex-end"
+    label="test-id"
+    labelActive="test-id"
+    margin={10}
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={null}
+    padding={10}
+    select={null}
+    state="active"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId="test-id"
+  >
+    <test-mock
+      countBatch={1}
+      countInitial={null}
+      interval={25}
+      items={[]}
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 54a9fbd56 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="center"
+    alignText="right"
+    behavior="radio"
+    direction="column-reverse"
+    events="auto"
+    flex={2}
+    href={null}
+    isActive={null}
+    isHidden={null}
+    justify="flex-end"
+    label=""
+    labelActive=""
+    margin={10}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={0}
+    padding={10}
+    select={
+      {
+        "buttons": [],
+      }
+    }
+    state={null}
+    style={null}
+    testId=""
+  >
+    <test-mock
+      countBatch={null}
+      countInitial={0}
+      interval={null}
+      items={[]}
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 3996db0b4 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="flex-start"
+    alignText="auto"
+    behavior="radio"
+    direction="column"
+    events="box-only"
+    flex={1}
+    href=""
+    isActive={true}
+    isHidden={true}
+    justify="space-evenly"
+    label="Label"
+    labelActive="Label"
+    margin="-1 -2 -3 -4"
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={0}
+    padding="-1 -2 -3 -4"
+    select={
+      {
+        "buttons": [],
+      }
+    }
+    state="active"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId="Label"
+  >
+    <test-mock
+      countBatch={1}
+      countInitial={0}
+      interval={25}
+      items={[]}
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 30193d0fa 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="stretch"
+    alignText={null}
+    behavior="button"
+    direction="column"
+    events="box-only"
+    flex={1}
+    href={null}
+    isActive={null}
+    isHidden={null}
+    justify="space-between"
+    label="Label"
+    labelActive="Label"
+    margin="5 15 3"
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={0.5}
+    padding="5 15 3"
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+        ],
+      }
+    }
+    state={null}
+    style={null}
+    testId="Label"
+  >
+    <test-mock
+      countBatch={null}
+      countInitial={1}
+      interval={null}
+      items={
+        [
+          {
+            "border": "md.left",
+            "colors": {
+              "bg": "bg.primaryalt",
+              "bgActive": "bg.primaryaltminus",
+              "bgHover": "bg.primaryaltplus",
+              "border": "transparent",
+              "borderActive": "transparent",
+              "borderHover": "transparent",
+              "text": "text.primary",
+              "textActive": "text.primaryminus",
+              "textHover": "text.primaryplus",
+            },
+            "flex": null,
+            "flexText": 1,
+            "font": "bold",
+            "hasMentions": null,
+            "icons": [
+              {
+                "Component": [Function],
+                "name": "checkbox",
+              },
+              {
+                "Component": [Function],
+                "name": "add",
+              },
+            ],
+            "isActive": false,
+            "isDecorated": null,
+            "isDisabled": null,
+            "label": "Button 1",
+            "lines": 1,
+            "name": "btn-1",
+            "onPress": null,
+            "shadow": "md",
+            "shadowText": "sm",
+            "shape": "lg.left",
+            "size": null,
+            "sizeText": null,
+            "style": undefined,
+          },
+        ]
+      }
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 374215da2 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="flex-end"
+    alignText="left"
+    behavior={null}
+    direction="row"
+    events={null}
+    flex={null}
+    href="https://google.com"
+    isActive={false}
+    isHidden={false}
+    justify="space-evenly"
+    label={null}
+    labelActive={null}
+    margin="-1 -2 -3 -4"
+    onPressIn={null}
+    onPressOut={null}
+    onState={null}
+    opacityDisabled={null}
+    padding="-1 -2 -3 -4"
+    select={null}
+    state="hover"
+    style={
+      {
+        "position": "absolute",
+      }
+    }
+    testId={null}
+  >
+    <test-mock
+      countBatch={2}
+      countInitial={null}
+      interval={50}
+      items={[]}
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 5792971da 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="center"
+    alignText="right"
+    behavior="radio"
+    direction="row"
+    events="box-none"
+    flex={-1}
+    href={null}
+    isActive={null}
+    isHidden={null}
+    justify="space-between"
+    label="test-id"
+    labelActive="test-id"
+    margin={null}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={0}
+    padding={null}
+    select={
+      {
+        "buttons": [],
+      }
+    }
+    state={null}
+    style={null}
+    testId="test-id"
+  >
+    <test-mock
+      countBatch={null}
+      countInitial={0}
+      interval={null}
+      items={[]}
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders 8459016f5 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="center"
+    alignText="right"
+    behavior="checkbox"
+    direction="row"
+    events={null}
+    flex={null}
+    href={null}
+    isActive={null}
+    isHidden={null}
+    justify="flex-start"
+    label={null}
+    labelActive={null}
+    margin={0}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={1}
+    padding={0}
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+          {
+            "label": "Button 2",
+            "name": "btn-2",
+          },
+        ],
+      }
+    }
+    state={null}
+    style={null}
+    testId={null}
+  >
+    <test-mock
+      countBatch={null}
+      countInitial={2}
+      interval={null}
+      items={
+        [
+          {
+            "border": "md.all",
+            "colors": null,
+            "flex": null,
+            "flexText": null,
+            "font": null,
+            "hasMentions": null,
+            "icons": [
+              null,
+              {
+                "Component": [Function],
+                "name": "add",
+              },
+            ],
+            "isActive": false,
+            "isDecorated": null,
+            "isDisabled": null,
+            "label": "Button 1",
+            "lines": null,
+            "name": "btn-1",
+            "onPress": [Function],
+            "shadow": "sm",
+            "shadowText": "md",
+            "shape": "lg.left",
+            "size": "lg",
+            "sizeText": "lg",
+            "style": undefined,
+          },
+          {
+            "border": "md.all",
+            "colors": null,
+            "flex": null,
+            "flexText": null,
+            "font": null,
+            "hasMentions": null,
+            "icons": [
+              null,
+              {
+                "Component": [Function],
+                "name": "add",
+              },
+            ],
+            "isActive": false,
+            "isDecorated": null,
+            "isDisabled": null,
+            "label": "Button 2",
+            "lines": null,
+            "name": "btn-2",
+            "onPress": [Function],
+            "shadow": "sm",
+            "shadowText": "md",
+            "shape": "lg.right",
+            "size": "lg",
+            "sizeText": "lg",
+            "style": undefined,
+          },
+        ]
+      }
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;
+
+exports[`spec/ButtonGroup renders aba462c13 1`] = `
+<test-mock
+  events="auto"
+  style={
+    {
+      "bottom": 0,
+      "left": 0,
+      "position": "absolute",
+      "right": 0,
+      "top": 0,
+    }
+  }
+>
+  <test-mock
+    align="flex-start"
+    alignText="auto"
+    behavior="checkbox"
+    direction="row"
+    events="box-none"
+    flex={-1}
+    href=""
+    isActive={true}
+    isHidden={true}
+    justify="center"
+    label="test-id"
+    labelActive="test-id"
+    margin="5 15"
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    onState={[Function]}
+    opacityDisabled={1}
+    padding="5 15"
+    select={
+      {
+        "buttons": [
+          {
+            "label": "Button 1",
+            "name": "btn-1",
+          },
+          {
+            "label": "Button 2",
+            "name": "btn-2",
+          },
+        ],
+      }
+    }
+    state="active"
+    style={
+      {
+        "width": 100,
+      }
+    }
+    testId="test-id"
+  >
+    <test-mock
+      countBatch={1}
+      countInitial={2}
+      interval={25}
+      items={
+        [
+          {
+            "border": "xlg.bottom",
+            "colors": "secondary",
+            "flex": -1,
+            "flexText": -1,
+            "font": "regular",
+            "hasMentions": null,
+            "icons": [
+              null,
+              {
+                "Component": [Function],
+                "name": "add",
+              },
+            ],
+            "isActive": false,
+            "isDecorated": null,
+            "isDisabled": true,
+            "label": "Button 1",
+            "lines": -1,
+            "name": "btn-1",
+            "onPress": [Function],
+            "shadow": "none",
+            "shadowText": "md",
+            "shape": "sm.left",
+            "size": "sm",
+            "sizeText": "sm",
+            "style": [
+              {
+                "marginLeft": 0,
+              },
+              undefined,
+            ],
+          },
+          {
+            "border": "xlg.bottom",
+            "colors": "secondary",
+            "flex": -1,
+            "flexText": -1,
+            "font": "regular",
+            "hasMentions": null,
+            "icons": [
+              null,
+              {
+                "Component": [Function],
+                "name": "add",
+              },
+            ],
+            "isActive": false,
+            "isDecorated": null,
+            "isDisabled": true,
+            "label": "Button 2",
+            "lines": -1,
+            "name": "btn-2",
+            "onPress": [Function],
+            "shadow": "none",
+            "shadowText": "md",
+            "shape": "sm.right",
+            "size": "sm",
+            "sizeText": "sm",
+            "style": [
+              {
+                "marginLeft": 10,
+              },
+              undefined,
+            ],
+          },
+        ]
+      }
+      onRenderItem={[Function]}
+    />
+  </test-mock>
+  <test-mock
+    style={
+      [
+        {
+          "bottom": 0,
+          "height": undefined,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": undefined,
+        },
+        {
+          "pointerEvents": "none",
+          "position": "fixed",
+          "zIndex": 1000,
+        },
+      ]
+    }
+  >
+    <test-mock
+      align="flex-end"
+      events="box-none"
+      justify="flex-start"
+      style={
+        [
+          {
+            "bottom": 0,
+            "left": 0,
+            "overflow": "hidden",
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          {
+            "bottom": 100,
+            "zIndex": 100,
+          },
+        ]
+      }
+    />
+  </test-mock>
+</test-mock>
+`;

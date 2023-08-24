@@ -1,0 +1,22 @@
+**/*.snap linguist-generated
+
+babel.config.js linguist-vendored
+.eslintrc.json linguist-vendored
+rollup.config.js linguist-vendored
+tsconfig.eslint.json linguist-vendored
+tsconfig.json linguist-vendored
+
+__mocks__/** linguist-vendored
+conf/** linguist-vendored
+
+doc/** linguist-documentation
+
+dist/** linguist-generated
+
+storybook/.storybook/** linguist-vendored
+storybook/node_modules/** linguist-vendored
+
+e2e/node_modules/** linguist-vendored
+e2e/babel.config.js linguist-vendored
+e2e/custom-build.js linguist-vendored
+e2e/jest-puppeteer.config.js linguist-vendored
