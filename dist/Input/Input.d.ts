@@ -1,5 +1,5 @@
 import React from 'react';
-import type { TButtonOnPress, TStyle, TCbString } from '../types';
+import type { TButtonOnPress, TStyle } from '../types';
 export declare const Input: React.MemoExoticComponent<React.ForwardRefExoticComponent<Readonly<import("../types").PartialNullable<{
     Component: import("../types").TAnyComponent;
     flex: number;
@@ -63,8 +63,8 @@ export declare const Input: React.MemoExoticComponent<React.ForwardRefExoticComp
     returnKeyType: string;
 }>> & Readonly<import("../types").PartialNullable<{
     children: React.ReactNode;
-    onChange: TCbString;
-    onMention: TCbString;
+    onChange: import("../types").TCbString;
+    onMention: import("../types").TCbString;
     onPress: TButtonOnPress;
     onPressButton: import("../types").TButtonGroupOnPress;
     onBlur: import("../types").TCbVoid;

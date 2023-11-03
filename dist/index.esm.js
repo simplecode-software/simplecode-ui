@@ -2920,31 +2920,6 @@ var Input_ = function Input_(_a, ref) {
   var _11 = React.useState(null),
     focuser = _11[0],
     setFocuser = _11[1];
-  var _12 = React.useState(''),
-    valueOwn = _12[0],
-    setValueOwn = _12[1];
-  var mentionDictRef = React.useRef(emptyObject);
-  React.useEffect(function () {
-    setValueOwn(value || '');
-  }, [value]);
-  React.useEffect(function () {
-    if (!hasMentions) {
-      return;
-    }
-    var newMentions = getMentions(valueOwn || '');
-    if (newMentions) {
-      var newDict = newMentions.reduce(function (accum, next) {
-        var _a;
-        if (!next.isMention) {
-          return accum;
-        }
-        return __assign(__assign({}, accum), (_a = {}, _a[next.text] = next, _a));
-      }, emptyObject);
-      mentionDictRef.current = newDict;
-    } else {
-      mentionDictRef.current = emptyObject;
-    }
-  }, [hasMentions, valueOwn]);
   var pressItem = React.useCallback(function (event, name) {
     if (!isReadonly && focuser) {
       focuser.focus();
@@ -2978,45 +2953,6 @@ var Input_ = function Input_(_a, ref) {
       opacity: isReadonly ? 0.75 : 1
     }), themeContext.getShadowText(shadowText)];
   }, [themeContext, font, finalSizeText, minHeight, state, colors, isReadonly, shadowText]);
-  var updateText = React.useCallback(function (text) {
-    // If mentions ignored, just pass the text through
-    if (!hasMentions) {
-      if (onChange) {
-        onChange(text);
-      }
-      return;
-    }
-    // First, replace the known mentions
-    var replaced = text;
-    Object.values(mentionDictRef.current).forEach(function (mention) {
-      replaced = replaced.replaceAll(mention.text, "@{{".concat(mention.id || '', "||").concat(mention.text.slice(1), "}}"));
-    });
-    // See if the new mention is being added at the end
-    // NOTE: only trailing mentions are supported
-    var matched = replaced.match(/(?:\s|^)@[a-z]*$/i);
-    var pendingMention = matched ? matched[0] || '' : '';
-    if (onMention) {
-      onMention(pendingMention ? pendingMention.replace(/^\s/, '') : '');
-    }
-    // Take a substring without the trailing mention (if there is any)
-    var noPending = pendingMention ? replaced.slice(0, -pendingMention.length) : replaced;
-    // Pull the mentions once again: both replaced and any highlighted
-    var mentions = getMentions(noPending);
-    // For all mentions, we either have an ID, or disband the mention
-    if (mentions) {
-      replaced = mentions.map(function (mention) {
-        if (mention.isMention) {
-          return mention.id ? "@{{".concat(mention.id, "||").concat(mention.text.slice(1), "}}") : mention.text.slice(1);
-        }
-        return mention.text;
-      }).join('');
-      replaced = "".concat(replaced).concat(pendingMention);
-    }
-    setValueOwn(replaced);
-    if (onChange) {
-      onChange(replaced);
-    }
-  }, [hasMentions, onChange, onMention]);
   return /*#__PURE__*/React.createElement(ListItem, __assign({
     ref: ref
   }, propsListItem, {
@@ -3049,12 +2985,13 @@ var Input_ = function Input_(_a, ref) {
     isReadonly: isReadonly,
     onSubmit: onSubmit,
     returnKeyType: returnKeyType,
-    value: valueOwn,
+    value: value,
     style: themeStyle,
     size: finalSize,
     placeholderTextColor: placeholderTextColor,
-    onChange: updateText,
+    onChange: onChange,
     onFocuser: setFocuser,
+    onMention: onMention,
     custom: custom,
     testId: testId && "InputZone:".concat(testId)
   })), children);
